@@ -20,8 +20,8 @@ No payment may be made until Finance/Payroll confirms:
 - cost centre;
 - annual budget;
 - payment route;
-- Thai tax/payroll treatment;
-- withholding/reporting requirements, if any;
+- recipient-taxable treatment is recorded;
+- company-side Finance/Payroll processing mechanics, including withholding, reporting, payslip, year-end certificate, accounting treatment, budget, cost centre, and payment route mechanics;
 - audit evidence requirements;
 - treatment of labour-hire agency awards and onward payments, if applicable.
 
@@ -85,7 +85,7 @@ Direct employee bank payment may be used for EDrill employees where:
 - the child and school evidence are complete;
 - the payment is approved for the relevant quarter;
 - bank details are verified under Finance controls;
-- Thai tax/payroll treatment is confirmed;
+- recipient-taxable treatment is recorded and company-side Finance/Payroll processing mechanics are approved;
 - the award letter states any withholding, reporting, evidence, and recovery conditions.
 
 Payment should not exceed THB 30,000 per quarter for an EDrill employee award unless an approved exception applies.
@@ -149,16 +149,18 @@ Provisional required evidence:
 
 | Evidence | Purpose | Owner / verifier |
 | --- | --- | --- |
-| School enrolment confirmation | Confirms child is enrolled | HR |
+| Birth certificate or approved equivalent | Confirms child identity, age, and/or relationship where applicable | HR |
+| School enrolment letter or confirmation | Confirms child is enrolled | HR |
 | School invoice / fee note | Confirms eligible cost | HR / Finance |
 | Receipt / proof of payment | Supports reimbursement | Finance |
-| Child identity document | Confirms child identity and age | HR |
 | Relationship / dependency evidence | Confirms eligible child relationship | HR |
 | Salary eligibility confirmation | Confirms threshold | HR / Finance |
 | Employment / assignment confirmation | Confirms applicant eligibility | HR / Operations |
 | Labour-hire agency employment verification | Confirms agency employment status | Labour-hire agency / Operations |
 | Labour-hire agency onward-payment confirmation, if applicable | Confirms agency payment to employee | Labour-hire agency / Finance |
 | Applicant declaration and consent | Confirms accuracy and data handling | HR |
+
+Finance verifies salary eligibility internally. Applicants should not be required to submit a payslip unless Finance later requires it as an exception.
 
 ## 13. Evidence Standards
 
@@ -198,6 +200,8 @@ Before each quarterly payment, HR and Finance should confirm:
 - no material change affects eligibility.
 
 Payment may be delayed, reduced, suspended, or stopped if evidence or eligibility is incomplete.
+
+If an EDrill employee or labour-hire agency employee leaves employment or ceases assignment during the award year, continuation, suspension, or cessation of the award is decided case by case by the Committee, considering the circumstances of cessation and the needs of the family.
 
 ## 16. Changes After Award
 

@@ -38,7 +38,7 @@ Managers must not say:
 - that the Bursary is a charity, foundation, registered society, or public fund;
 - that donations are being accepted;
 - that labour-hire agency employees are EDrill employees;
-- that payment will be tax-free or outside payroll unless Finance confirms this.
+- that payment is outside approved tax, payroll, withholding, reporting, or accounting processes.
 
 ## 5. Labour-Hire Agency Wording
 
@@ -67,4 +67,3 @@ Refer the following to Bangkok HR:
 ## 7. Contact
 
 Bangkok HR contact: [name / email / phone]
-

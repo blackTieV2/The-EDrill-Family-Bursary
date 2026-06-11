@@ -44,7 +44,7 @@ For this Charter:
 - "Company" means Energy Drilling Management Pte. Ltd. acting through its Thailand registered presence / Thailand office, subject to Finance confirmation of the exact contracting, accounting, tax, and approval treatment.
 - "Eligible Child" means a child who meets the age, relationship, schooling, and evidence requirements set out in the Bursary rules.
 - "Eligible Employee" means an employee who meets the employment, salary, service, and operational assignment requirements set out in the Bursary rules.
-- "Labour-Hire Eligible Worker" means an eligible employee of an approved labour-hire agency assigned to EDrill rigs who meets the separate labour-hire eligibility requirements, if labour-hire participation is approved.
+- "Labour-Hire Eligible Worker" means an eligible employee of the appointed labour-hire agency at the time of application who is assigned to EDrill rigs and meets the separate labour-hire eligibility requirements, if labour-hire participation is approved.
 - "Committee" means the Bursary review committee appointed to administer and recommend awards.
 
 ## 5. Eligibility Principles
@@ -58,18 +58,18 @@ The current provisional eligibility principles are:
 3. The employee's monthly salary must be below THB 100,000 according to the approved salary definition.
 4. The child must be enrolled in schooling in Thailand.
 5. Government and private schools in Thailand are included, subject to evidence and any approved exclusions or caps.
-6. Renewal is not automatic.
+6. There is no automatic renewal and no automatic renewal priority.
 7. Payment is subject to continued eligibility, evidence, available Bursary places, and approved funding.
 
 The Company may decline an application where eligibility is not proven, documents are incomplete, information is inaccurate, or the application falls outside the approved scope.
 
 ## 6. Labour-Hire Agency Participation
 
-Subject to legal, operational, Finance, and agency acknowledgement requirements, the Bursary may include eligible children of employees of approved labour-hire agencies assigned to EDrill rigs, including Kobchok where applicable.
+Subject to legal, operational, Finance, and agency acknowledgement requirements, the Bursary may include eligible children of eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs.
 
 Labour-hire participants must not be described as EDrill employees unless that is legally accurate. The preferred wording is:
 
-> eligible employees of approved labour-hire agencies assigned to EDrill rigs
+> eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs
 
 or:
 
@@ -95,7 +95,7 @@ The current provisional award limits are:
 
 The Bursary is provisionally limited to a maximum of six awards per Award Year.
 
-The final award value, payment route, payroll treatment, tax treatment, labour-hire agency onward-payment controls, and cost centre must be confirmed by Finance/Payroll before awards are issued.
+Recipient-taxable treatment is recorded; company-side Finance/Payroll processing remains a launch gate. The final award value, payment route, withholding, reporting, payslip, year-end certificate, accounting treatment, labour-hire agency onward-payment controls, budget, and cost centre must be confirmed by Finance/Payroll before awards are issued.
 
 For EDrill employee awards, the intended route is quarterly payment directly to the employee's nominated bank account after evidence and eligibility checks.
 
@@ -153,7 +153,7 @@ If eligible applications exceed available Bursary places, applications must be r
 
 The provisional selection approach is a committee scoring model weighted toward financial need, family circumstances, service/continuity, school cost burden, and completeness of evidence.
 
-Marcus / the Executive Sponsor should confirm whether the primary selection principle is "most needy eligible applicants first" and approve the criteria used to measure need.
+No further Marcus clarification is outstanding. If eligible applications exceed available bursary places, the Committee applies a means-tested, need-weighted assessment considering financial need and family circumstances.
 
 The Bursary should not be treated as an academic prize. Academic merit should not be the main selection basis unless the Executive Sponsor and HR approve a different purpose.
 
@@ -161,16 +161,21 @@ The Bursary should not be treated as an academic prize. Academic merit should no
 
 Applicants must submit the approved application form and required evidence by the stated deadline.
 
-Required evidence may include:
+Core required applicant evidence includes:
+
+- birth certificate or approved equivalent;
+- school enrolment letter or confirmation.
+
+Other evidence or verification may include:
 
 - employee identity and employment confirmation;
-- salary or pay-band confirmation;
-- child identity document;
+- salary or pay-band confirmation handled internally by HR/Finance;
 - evidence of relationship or legal dependency;
-- school enrolment confirmation;
 - school invoice, fee note, or receipt;
 - bank/payment details where reimbursement is approved;
 - other documents reasonably required by HR, Finance, or Legal/Compliance.
+
+Applicants should not be required to submit a payslip unless Finance later requires it as an exception.
 
 The Company may verify documents with relevant internal functions, schools, the relevant labour-hire agency, or other appropriate parties where lawful and where consent or legal basis exists.
 
@@ -208,25 +213,18 @@ No payment should be made until:
 - eligibility is confirmed;
 - evidence is complete;
 - payment route is approved;
-- Thai tax/payroll treatment is confirmed;
+- recipient-taxable treatment is recorded and company-side Finance/Payroll processing mechanics are approved;
 - any required consent is obtained.
 
 ## 14. Renewal
 
 Awards are made for one Award Year only.
 
-Existing recipients may apply or be considered for renewal, but renewal is not automatic. Renewal depends on:
-
-- continued eligibility;
-- available Bursary places;
-- available funding;
-- complete evidence;
-- annual review outcome;
-- any approved priority or selection rules.
+There is no automatic renewal and no automatic renewal priority. Each award year is a reset. Existing recipients may reapply and will be assessed under the same criteria as other applicants, subject to eligibility, available places, and annual approval.
 
 ## 15. Appeals and Exceptions
 
-The Company may allow a limited appeal or exception process.
+Rejected applicants may appeal to the Chairman of the Committee for review under the approved appeal process.
 
 Appeals should be limited to:
 
@@ -269,7 +267,7 @@ This Charter should not be issued as final until the following launch gates are 
 
 - funding entity confirmed;
 - budget and cost centre approved;
-- Thai tax/payroll treatment confirmed;
+- recipient-taxable treatment recorded and company-side Finance/Payroll processing mechanics approved;
 - payment route approved;
 - privacy and consent wording approved;
 - discretionary/non-contractual wording approved;

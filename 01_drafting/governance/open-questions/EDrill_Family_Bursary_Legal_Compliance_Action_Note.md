@@ -75,7 +75,7 @@ Practical implication:
 - Recipients are responsible for their own tax position.
 - EDrill should not describe the bursary as tax-free.
 - Finance/Payroll confirmation of company-side processing, withholding, reporting, payslip, and accounting treatment remains a launch gate.
-- Direct employee bank-account payment should be treated as a controlled payment route requiring payroll/tax confirmation, not as ordinary non-taxable assistance by default.
+- Direct employee bank-account payment should be treated as a controlled recipient-taxable payment route requiring company-side Finance/Payroll processing confirmation.
 - Payment through a labour-hire agency should be separately confirmed for accounting, withholding/reporting, onward-payment evidence, and labour-law treatment.
 
 Thailand labour-hire note:
@@ -136,7 +136,7 @@ These should be answered in writing before the first award.
 
 ## 5. Labour-Hire Agency Risk Note
 
-Including employees of approved labour-hire agencies may be morally and operationally attractive, but it is the part of the scheme most likely to create legal ambiguity.
+Including eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs may be morally and operationally attractive, but it is the part of the scheme most likely to create legal ambiguity.
 
 Key risks:
 
@@ -148,7 +148,7 @@ Key risks:
 
 Recommended controls:
 
-- Use the wording "eligible employees of approved labour-hire agencies assigned to EDrill rigs" or "eligible employees of EDrill's contractor working on EDrill rigs".
+- Use the wording "eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs".
 - Avoid "our employees" for labour-hire agency personnel.
 - Obtain written acknowledgement from the relevant labour-hire agency before including its employees.
 - Have the agency verify employment status and EDrill Operations verify rig assignment/continuity.

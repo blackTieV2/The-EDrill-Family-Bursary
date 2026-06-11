@@ -4,6 +4,8 @@ Status: Draft for internal review only
 Version: 0.1  
 Important: this appendix must not be used until EDrill Legal/Compliance, Operations, Finance, and the relevant labour-hire agency have confirmed the participation model.
 
+Note: despite the current file name, this appendix is agency-neutral and is not limited to Kobchok. It applies only if the appointed labour-hire agency participation model and acknowledgement are approved.
+
 ## 1. Purpose
 
 This Appendix defines how eligible employees of the appointed labour-hire agency at the time of application assigned to EDrill rigs may be considered for The EDrill Family Bursary, if labour-hire participation is approved.
@@ -16,7 +18,7 @@ Labour-hire agency employees are not to be described as EDrill employees unless 
 
 Approved wording:
 
-> eligible employees of the appointed labour-hire agency at the time of application assigned to EDrill rigs
+> eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs
 
 or:
 
@@ -105,7 +107,7 @@ Internal and external communications should refer to labour-hire agency personne
 
 Suggested internal wording:
 
-> The Bursary may also include eligible employees of the appointed labour-hire agency at the time of application assigned to EDrill rigs, subject to the approved labour-hire participation rules and verification requirements.
+> The Bursary may also include eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs, subject to the approved labour-hire participation rules and verification requirements.
 
 Suggested external wording, if a labour-hire agency is mentioned at all:
 

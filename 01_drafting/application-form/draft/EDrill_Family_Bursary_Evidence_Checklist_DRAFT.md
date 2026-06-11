@@ -39,7 +39,7 @@ Important: final evidence requirements must be approved by HR, Finance, Payroll,
 
 | Evidence item | Required | Received | Verified by | Notes |
 | --- | --- | --- | --- | --- |
-| Child identity document | Yes |  | HR |  |
+| Birth certificate or approved equivalent | Yes |  | HR |  |
 | Date of birth / age confirmed | Yes |  | HR |  |
 | Relationship / dependency evidence | Yes |  | HR |  |
 | Child under approved age limit | Yes |  | HR |  |
@@ -51,7 +51,7 @@ Important: final evidence requirements must be approved by HR, Finance, Payroll,
 | School name and location | Yes |  | HR |  |
 | School in Thailand | Yes |  | HR |  |
 | School type eligible | Yes |  | HR |  |
-| Enrolment confirmation | Yes |  | HR |  |
+| School enrolment letter or confirmation | Yes |  | HR |  |
 | Grade / school year confirmed | If required |  | HR |  |
 
 ## 6. Payment Evidence
@@ -63,6 +63,8 @@ Important: final evidence requirements must be approved by HR, Finance, Payroll,
 | School payment instructions | For direct school payment |  | Finance |  |
 | Applicant bank details | For reimbursement |  | Finance |  |
 | Eligible expense summary | Yes |  | HR / Finance |  |
+
+Finance verifies salary eligibility internally. Applicants should not be required to submit a payslip unless Finance later requires it as an exception.
 
 ## 7. Consent and Privacy Evidence
 
@@ -90,4 +92,3 @@ Important: final evidence requirements must be approved by HR, Finance, Payroll,
 | HR reviewer | Signature / approval record | Date |
 | --- | --- | --- |
 |  |  |  |
-

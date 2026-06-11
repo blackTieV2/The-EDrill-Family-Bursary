@@ -41,9 +41,11 @@ This award is subject to:
 
 Any Bursary payment will be processed subject to applicable tax, payroll, withholding, reporting, accounting, and legal requirements. The Company may deduct, withhold, report, adjust, suspend, or recover amounts where required by law, internal controls, or the approved Bursary rules.
 
+Bursary payments are tax liable to the recipient. You are responsible for your own tax position.
+
 ## 3. Renewal
 
-This award applies to the stated Award Year only. Renewal is not automatic. Any future application or renewal will be reviewed against the rules and available Bursary places for the relevant Award Year.
+This award applies to the stated Award Year only. There is no automatic renewal and no automatic renewal priority. Each award year is a reset. Existing recipients may reapply and will be assessed under the same criteria as other applicants, subject to eligibility, available places, and annual approval.
 
 ## 4. Changes in Circumstances
 
@@ -57,9 +59,11 @@ You must notify HR promptly if:
 
 The Company may suspend, reduce, stop, withdraw, or recover payment where eligibility no longer applies, evidence is incomplete, or information provided was false, misleading, or materially incomplete.
 
+If an EDrill employee or labour-hire agency employee leaves employment or ceases assignment during the award year, continuation, suspension, or cessation of the award is decided case by case by the Committee, considering the circumstances of cessation and the needs of the family.
+
 ## 5. Discretionary Nature
 
-The Bursary is a discretionary company-funded education support scheme. This award does not create a contractual entitlement, guaranteed annual benefit, or automatic right to renewal.
+The Bursary is a discretionary company-funded education support scheme. This award does not create a contractual entitlement, guaranteed annual benefit, automatic renewal, or automatic renewal priority.
 
 ## 6. Acceptance
 

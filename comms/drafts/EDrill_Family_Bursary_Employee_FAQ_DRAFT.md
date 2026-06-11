@@ -14,11 +14,13 @@ No. The Bursary is discretionary, limited, and subject to eligibility, evidence,
 
 ## 3. Who can apply?
 
-The first award cycle is intended for eligible employees connected with EDrill Thailand operations. If approved, eligible labour-hire agency employees assigned to EDrill rigs may also be considered under separate verification rules.
+The first award cycle is intended for eligible employees connected with EDrill Thailand operations. If approved, eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs may also be considered under separate verification rules.
 
 ## 4. Which children are eligible?
 
 The child must meet the approved age, relationship/dependency, schooling, and evidence requirements. For the first cycle, the working age rule is that a child who turns 12 during the 2026 calendar year remains eligible, but a child who turns 13 during that year is not eligible.
+
+A family may apply for multiple eligible children. Each child/application is means-tested and assessed separately under the approved criteria and the annual award cap.
 
 ## 5. Are private schools included?
 
@@ -54,7 +56,7 @@ No. If eligible applications exceed available places, applications will be revie
 
 ## 13. Is renewal automatic?
 
-No. Existing recipients may be considered for renewal, but renewal is subject to continued eligibility, evidence, available places, budget, and annual review.
+No. There is no automatic renewal and no automatic renewal priority. Each award year is a reset. Existing recipients may reapply and will be assessed under the same criteria as other applicants, subject to eligibility, available places, and annual approval.
 
 ## 14. Can I appeal?
 

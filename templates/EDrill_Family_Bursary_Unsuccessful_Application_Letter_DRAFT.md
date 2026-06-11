@@ -27,11 +27,10 @@ Eligibility for the Bursary does not guarantee an award, as places are limited a
 
 Where you remain eligible, you may apply again in a future award cycle.
 
-If you believe there has been a procedural error, new material evidence, exceptional hardship, or an incorrect eligibility assessment, you may submit an appeal or exception request in accordance with the approved process by [deadline/contact].
+If you believe there has been a procedural error, new material evidence, exceptional hardship, or an incorrect eligibility assessment, you may appeal to the Chairman of the Committee for review in accordance with the approved process by [deadline/contact].
 
 Regards,
 
 [Name]  
 [Title]  
 For and on behalf of [Company / Administrator]
-

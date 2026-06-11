@@ -23,7 +23,7 @@ The Bursary is not launch-ready until every required item in this checklist is A
 | Launch date approved | Written approval | Executive Sponsor | Open |  |
 | Maximum awards approved | Written approval | Executive Sponsor / Finance | Open |  |
 | EDrill award value approved | Written approval | Executive Sponsor / Finance | Open |  |
-| Labour-hire agency inclusion approved or excluded | Written decision | Executive Sponsor / Legal / Operations | Open | Includes Kobchok where applicable |
+| Labour-hire agency inclusion approved or excluded | Written decision | Executive Sponsor / Legal / Operations | Open | Agency-neutral; applies only to the appointed labour-hire agency model if approved |
 | Executive authority for scheme confirmed | Approval note | Executive Sponsor | Open |  |
 
 ## 4. Finance / Payroll / Tax Approval

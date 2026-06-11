@@ -20,7 +20,7 @@ This Procedure applies to the first implementation of the Bursary for Thailand o
 The first implementation is intended to cover:
 
 - eligible Energy Drilling employees connected with Thailand operations; and
-- subject to approval, eligible employees of approved labour-hire agencies assigned to EDrill rigs.
+- subject to approval, eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs.
 
 This Procedure does not apply to Myanmar or other locations unless formally extended.
 
@@ -30,7 +30,7 @@ No award may be issued unless:
 
 1. the funding entity and cost centre are confirmed;
 2. the annual budget is approved;
-3. Thai tax/payroll treatment is confirmed;
+3. recipient-taxable treatment is recorded and company-side Finance/Payroll processing mechanics are approved;
 4. the payment route is approved;
 5. privacy and consent wording is approved;
 6. the committee is appointed;
@@ -123,12 +123,15 @@ Provisional required documents:
 2. employee identity and employment details;
 3. child identity document;
 4. evidence of relationship or legal dependency;
-5. school enrolment confirmation;
-6. school invoice, fee note, receipt, or equivalent evidence;
-7. salary or pay-band confirmation handled by HR/Finance;
-8. declaration of other education support for the same child;
-9. applicant declaration and consent form;
-10. for labour-hire applicants, labour-hire agency employment, onward-payment, and EDrill rig assignment verification.
+5. birth certificate or approved equivalent;
+6. school enrolment letter or confirmation;
+7. school invoice, fee note, receipt, or equivalent evidence;
+8. salary or pay-band confirmation handled internally by HR/Finance;
+9. declaration of other education support for the same child;
+10. applicant declaration and consent form;
+11. for labour-hire applicants, labour-hire agency employment, onward-payment, and EDrill rig assignment verification.
+
+Applicants should not be required to submit a payslip unless Finance later requires it as an exception.
 
 HR should not collect unnecessary sensitive information. Hardship information should be collected only where it is part of the approved scoring model and privacy wording allows it.
 
@@ -210,7 +213,7 @@ If eligible applications are equal to or fewer than available bursary places, th
 
 If eligible applications exceed available bursary places, the Committee must apply the approved scoring or ranking method.
 
-Provisional scoring model, to be approved by Marcus / the Executive Sponsor:
+Provisional scoring model, to be approved by HR / the Executive Sponsor:
 
 | Criterion | Points |
 | --- | ---: |
@@ -230,7 +233,7 @@ Recommended tie-breakers:
 4. longer service or verified continuous assignment;
 5. Committee Chair decision, recorded with reasons.
 
-The final scoring model must be approved before use. The unresolved policy question for Marcus is whether awards should be ranked expressly on a "most needy eligible applicants first" basis.
+The final scoring model must be approved before use. No further Marcus clarification is outstanding. If eligible applications exceed available bursary places, the Committee applies a means-tested, need-weighted assessment considering financial need and family circumstances.
 
 ## 15. Decision Recording
 
@@ -296,7 +299,7 @@ The notification should avoid detailed comparison with other applicants and shou
 - Bursary places are limited;
 - eligibility does not guarantee an award;
 - the applicant may apply again in a future cycle if eligible;
-- an appeal may be submitted only under approved appeal grounds.
+- rejected applicants may appeal to the Chairman of the Committee for review under the approved appeal grounds.
 
 ## 19. Payment Processing
 
@@ -306,7 +309,7 @@ Finance should process payment only after:
 2. award letter has been accepted;
 3. required evidence is complete;
 4. payment route is approved;
-5. tax/payroll treatment is confirmed;
+5. recipient-taxable treatment is recorded and company-side Finance/Payroll processing mechanics are approved;
 6. employee bank details or labour-hire agency payment details are verified.
 
 Approved working payment route, subject to Finance/Payroll/Legal sign-off:
@@ -330,7 +333,7 @@ The quarterly review should confirm:
 - no unresolved compliance issue;
 - payment amount due.
 
-If eligibility changes, HR should refer the case to the Committee or approving authority before further payment.
+If an EDrill employee or labour-hire agency employee leaves employment or ceases assignment during the award year, continuation, suspension, or cessation of the award is decided case by case by the Committee, considering the circumstances of cessation and the needs of the family.
 
 ## 21. Changes in Circumstances
 
@@ -345,11 +348,11 @@ Applicants and recipients must notify HR if:
 - submitted information was incorrect;
 - family circumstances relevant to the application change.
 
-The Company may suspend, reduce, stop, or recover payment where eligibility no longer applies or information was inaccurate.
+The Company may suspend, reduce, stop, or recover payment where eligibility no longer applies or information was inaccurate, subject to any Committee decision on mid-year employment or assignment cessation.
 
 ## 22. Renewal
 
-Renewal is not automatic.
+There is no automatic renewal and no automatic renewal priority. Each award year is a reset.
 
 Before renewal, HR should request updated:
 
@@ -361,7 +364,7 @@ Before renewal, HR should request updated:
 - prior payment/evidence record;
 - declaration of other support.
 
-Renewal applicants should be assessed under the approved renewal and selection rules for the new Award Year.
+Existing recipients may reapply and will be assessed under the same criteria as other applicants, subject to eligibility, available places, and annual approval.
 
 ## 23. Appeals and Exceptions
 
@@ -374,7 +377,7 @@ Permitted grounds:
 - exceptional hardship;
 - incorrect eligibility assessment.
 
-Appeals should be reviewed by persons who were not conflicted in the original decision where practical.
+Rejected applicants may appeal to the Chairman of the Committee for review. Appeals should be reviewed by persons who were not conflicted in the original decision where practical.
 
 Exception approvals must be recorded with reasons and must not undermine the fairness of the scheme.
 

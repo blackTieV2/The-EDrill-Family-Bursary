@@ -35,7 +35,7 @@ The final Award Year dates, application opening date, and application closing da
 The provisional eligible applicant categories are:
 
 1. Eligible EDrill employees connected with Thailand operations.
-2. Eligible employees of approved labour-hire agencies assigned to EDrill rigs, if labour-hire participation is approved.
+2. Eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs, if labour-hire participation is approved.
 
 The Bursary does not apply to Myanmar or other locations unless formally extended.
 
@@ -78,7 +78,7 @@ Labour-hire agency participation is provisional and must be approved before use.
 
 If approved, a labour-hire agency employee may be eligible if all of the following apply:
 
-1. The individual is an employee of an approved labour-hire agency, not EDrill.
+1. The individual is an employee of the appointed labour-hire agency at the time of application, not EDrill.
 2. The individual is assigned to EDrill rigs.
 3. The individual has worked continuously for EDrill since 1 January 2025.
 4. The relevant labour-hire agency verifies employment status.
@@ -91,7 +91,7 @@ All labour-hire wording must avoid implying that labour-hire agency employees ar
 
 Approved wording:
 
-> eligible employees of approved labour-hire agencies assigned to EDrill rigs
+> eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs
 
 or:
 
@@ -108,11 +108,9 @@ An eligible child must:
 
 The final age rule must be approved before the application form is issued.
 
-## 10. Number of Children Per Applicant
+## 10. Multiple Children Per Family
 
-The provisional rule is one Bursary per applicant per Award Year.
-
-If fewer than six eligible applications are received, the Committee may consider more than one child from the same applicant only if this is approved by the Executive Sponsor and recorded as an exception.
+A family may apply for multiple eligible children. Each child/application is means-tested and assessed separately under the approved criteria and the annual award cap.
 
 ## 11. Eligible Schools
 
@@ -122,7 +120,7 @@ The provisional eligible school categories are:
 - private schools in Thailand;
 - special education schools in Thailand, if properly evidenced.
 
-Applicants must list the school attended. Government and private schools in Thailand are included. International schools should be reviewed for cost reasonableness unless Marcus / the Executive Sponsor approves an exclusion, cap, or separate rule.
+Applicants must list the school attended. Government and private schools in Thailand are included. International schools should be reviewed for cost reasonableness unless the Executive Sponsor approves an exclusion, cap, or separate rule.
 
 Homeschooling and online schooling are provisionally excluded for the first launch unless legally recognised and evidence is clear.
 
@@ -133,15 +131,14 @@ Applicants must provide, or allow HR/Finance/Operations to verify, the evidence 
 Provisional evidence requirements include:
 
 - completed application form;
-- child identity document;
-- evidence of relationship or legal dependency;
-- school enrolment confirmation;
+- birth certificate or approved equivalent;
+- school enrolment letter or confirmation;
 - school invoice, fee note, receipt, or equivalent;
 - declaration of other education support;
 - applicant declaration and consent;
 - labour-hire agency employment and assignment verification, if applicable.
 
-HR/Finance should verify employee salary and employment internally rather than requiring unnecessary payroll documents from the applicant where possible.
+Finance verifies salary eligibility internally. Applicants should not be required to submit a payslip unless Finance later requires it as an exception.
 
 ## 13. Ineligibility
 
@@ -176,12 +173,11 @@ The provisional scoring model is:
 
 | Criterion | Points | Guidance |
 | --- | ---: | --- |
-| Salary band below threshold | 0-30 | Lower salary receives higher score |
+| Financial need / salary band below threshold | 0-35 | Lower salary and stronger financial need receive higher score |
 | Number of dependent children | 0-15 | More dependants may receive higher score |
 | School cost burden | 0-20 | Higher cost burden relative to income may receive higher score |
 | Special hardship | 0-15 | Medical, disability, single-parent household, sudden hardship, or other approved hardship |
 | Length of service / continuity | 0-10 | Longer verified service or assignment may receive higher score |
-| Prior bursary status | 0-5 | May support renewal, but should not override need |
 | Completeness of evidence | 0-5 | Complete, reliable, timely application |
 | Total | 100 | Rank from highest to lowest score |
 
@@ -199,19 +195,9 @@ If applicants receive the same score, the provisional tie-breakers are:
 
 ## 17. Renewal Selection
 
-Renewal is not automatic.
+There is no automatic renewal and no automatic renewal priority.
 
-Existing recipients may be considered for renewal if they remain eligible and provide updated evidence.
-
-The provisional rule is that renewal applicants may receive limited priority where:
-
-- they remain eligible;
-- prior evidence and payment records are complete;
-- the child remains enrolled in an eligible school;
-- the Committee considers continuation appropriate;
-- places and budget are available.
-
-Renewal priority must not prevent fair consideration of new applicants in clear hardship.
+Each award year is a reset. Existing recipients may reapply and will be assessed under the same criteria as other applicants, subject to eligibility, available places, and annual approval.
 
 ## 18. Appeals
 
@@ -223,6 +209,8 @@ Appeals may be submitted only on approved grounds:
 - incorrect eligibility assessment.
 
 Appeals are not a second opportunity to re-argue a properly applied scoring outcome.
+
+Rejected applicants may appeal to the Chairman of the Committee for review under the approved appeal process.
 
 ## 19. Exceptions
 

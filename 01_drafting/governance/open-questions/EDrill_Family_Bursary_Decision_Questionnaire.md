@@ -4,6 +4,8 @@ Working status: pre-drafting decision pack
 Purpose: obtain the decisions and checks required before the formal bursary charter, procedures, forms, and announcement materials are drafted.  
 Recommended use: circulate to the Executive Sponsor, Bangkok HR, Finance/Payroll, Operations, and Compliance/Legal.
 
+Note: this questionnaire is now reference-only where later decisions are recorded in the Decision Log. Later decisions supersede any older prompt that refers to Marcus confirmation, one-child limits, tax treatment not confirmed, renewal priority, or fixed Kobchok-specific eligibility.
+
 ## 1. One-Page Executive Decision Summary
 
 The proposed short-term model is a company-funded education bursary for eligible families connected with EDrill Thailand operations. It should be governed as an internal company scheme, not as a charity, foundation, public fund, or registered society at this stage.
@@ -22,9 +24,9 @@ The long-term option of a Singapore Registry of Societies model should remain in
 | 6 | Confirm maximum number of awards | Maximum 6 bursaries per award year |  |
 | 7 | Confirm EDrill employee award value | THB 120,000 per awardee per year |  |
 | 8 | Confirm payment frequency for EDrill awards | Quarterly, THB 30,000 per quarter |  |
-| 9 | Confirm labour-hire agency inclusion | Include eligible employees of approved labour-hire agencies assigned to EDrill rigs, including Kobchok where applicable, subject to verification |  |
+| 9 | Confirm labour-hire agency inclusion | Include eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs, subject to verification and approval |  |
 | 10 | Confirm labour-hire award value | THB 8,000 per month, paid quarterly as THB 24,000 |  |
-| 11 | Confirm selection principle if applications exceed six | Proposed: most needy eligible applicants first, using committee scoring | Marcus to confirm |
+| 11 | Confirm selection principle if applications exceed six | Resolved in Decision Log: no further Marcus clarification is outstanding. The Committee applies a means-tested, need-weighted assessment considering financial need and family circumstances. | Superseded by Decision Log |
 | 12 | Confirm public communication posture | LinkedIn and corporate website post effective 1 October, after Legal/Compliance/Communications approval |  |
 
 ## 2. Policy Decisions For Bangkok HR / Operations
@@ -39,7 +41,7 @@ The long-term option of a Singapore Registry of Societies model should remain in
 | 16 | When is the salary threshold tested? | Application closing date and award approval date |  |
 | 17 | How is "under 12" measured? | Current working rule: child who turns 12 during the award calendar year remains eligible; child who turns 13 during that year is not eligible |  |
 | 18 | Are adopted children, stepchildren, and legal dependants included? | Recommended: yes, if legally dependent and supported by documents |  |
-| 19 | Is there a maximum number of children per employee? | Recommended: one bursary per employee per award year, unless fewer than six applications are received |  |
+| 19 | Is there a maximum number of children per employee? | Resolved in Decision Log: a family may apply for multiple eligible children. Each child/application is means-tested and assessed separately under the approved criteria and the annual award cap. | Superseded by Decision Log |
 | 20 | Are employees already receiving another education benefit eligible? | Recommended: no double benefit for the same child and same expense |  |
 
 ### Schooling
@@ -47,10 +49,10 @@ The long-term option of a Singapore Registry of Societies model should remain in
 | No. | Question | Recommended default | Decision / comment |
 | --- | --- | --- | --- |
 | 21 | Are government and private Thai schools included? | Yes |  |
-| 22 | Are international schools included? | Applicant must list school attended; committee/Finance to review cost reasonableness unless Marcus sets an exclusion or cap |  |
+| 22 | Are international schools included? | Applicant must list school attended; committee/Finance to review cost reasonableness unless the Executive Sponsor sets an exclusion or cap |  |
 | 23 | Are special education schools included? | Recommended: yes, if located in Thailand and properly evidenced |  |
 | 24 | Are homeschooling or online schooling included? | Recommended: excluded for first launch unless legally recognised and evidence is clear |  |
-| 25 | What school evidence is required? | Enrolment confirmation, fee invoice or receipt, child identity document, and relationship/dependant evidence |  |
+| 25 | What school evidence is required? | Core applicant evidence is birth certificate or approved equivalent, plus school enrolment letter or confirmation. Finance verifies salary eligibility internally. | Superseded by Decision Log |
 
 ### Payment and Evidence
 
@@ -83,7 +85,7 @@ This is the most sensitive part of the scheme. The practical aim is clear, but t
 | 38 | Who verifies continuous work on EDrill rigs since 1 January 2025? | EDrill Operations, supported by the relevant agency's records |  |
 | 39 | Does the labour-hire agency need to formally acknowledge the scheme? | Recommended: yes, including onward-payment obligations if funds are routed through the agency |  |
 | 40 | Should payment be made via the labour-hire agency, direct to employee, or to school? | Current instruction: pay the relevant labour-hire agency for onward payment to its employee, subject to Finance/Legal controls |  |
-| 41 | How should labour-hire beneficiaries be described? | "Eligible employees of approved labour-hire agencies assigned to EDrill rigs" or "eligible employees of EDrill's contractor working on EDrill rigs" |  |
+| 41 | How should labour-hire beneficiaries be described? | "Eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs" |  |
 | 42 | What wording should be avoided? | Avoid "our employees" when referring to labour-hire agency staff |  |
 
 ## 4. Finance / Payroll / Tax Questions
@@ -94,7 +96,7 @@ These questions should be answered before any award letter is issued.
 | --- | --- | --- |
 | 43 | Which EDrill legal entity or Thailand registered presence will bear the cost? |  |
 | 44 | Which cost centre will be used? |  |
-| 45 | Is the bursary taxable to the employee in Thailand? |  |
+| 45 | Is the bursary taxable to the employee in Thailand? | Recipient-taxable treatment is recorded; company-side Finance/Payroll processing remains a launch gate. |
 | 46 | Does tax treatment change if payment is made directly to the school? |  |
 | 47 | Does tax treatment change if payment is made to the child rather than the employee? |  |
 | 48 | Should payment be processed through payroll or accounts payable? |  |
@@ -134,8 +136,8 @@ The following model is recommended unless the decision-makers choose otherwise:
 - EDrill payment cadence: quarterly, subject to continued eligibility and evidence.
 - Labour-hire award: up to THB 8,000 per month, paid quarterly, subject to verification.
 - Payment method: EDrill employees paid directly to nominated bank account; labour-hire crew paid through the relevant agency for onward payment.
-- Selection method: eligibility screen plus committee scoring if applications exceed available slots; Marcus to confirm whether "most needy eligible applicants first" is the controlling principle.
-- Renewal: no automatic entitlement; renewal allowed subject to review, evidence, and available slots.
+- Selection method: eligibility screen plus committee scoring if applications exceed available slots; no further Marcus clarification is outstanding. The Committee applies a means-tested, need-weighted assessment considering financial need and family circumstances.
+- Renewal: no automatic renewal and no automatic renewal priority. Each award year is a reset.
 - External communication: do not publish a LinkedIn announcement until the scheme documents and legal/tax checks are approved.
 
 ## 7. Proposed Committee Scoring Model
@@ -144,12 +146,11 @@ This scoring model is only a draft. It should be reviewed by HR and approved bef
 
 | Criterion | Points | Notes |
 | --- | ---: | --- |
-| Salary band below threshold | 0-30 | Lower salary receives higher score |
+| Financial need / salary band below threshold | 0-35 | Lower salary and stronger financial need receive higher score |
 | Number of dependent children | 0-15 | More dependants receives higher score |
 | School cost burden | 0-20 | Cost relative to salary and family circumstances |
 | Special hardship | 0-15 | Medical, disability, single-parent household, sudden hardship |
 | Length of service / continuity | 0-10 | Rewards sustained contribution |
-| Prior bursary status | 0-5 | May support renewal, but should not override need |
 | Completeness of evidence | 0-5 | Complete, reliable, timely application |
 | Total | 100 | Committee may set minimum score or rank applicants |
 

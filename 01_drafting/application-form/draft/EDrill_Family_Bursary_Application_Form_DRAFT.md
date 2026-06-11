@@ -5,6 +5,8 @@ Version: 0.1
 Use: For eligible EDrill employees or approved labour-hire agency applicants applying for the Bursary.  
 Important: this form must not be issued until the privacy notice, consent wording, payment route, and eligibility rules are approved.
 
+A family may apply for multiple eligible children. A separate application should be completed for each child. Each child/application is means-tested and assessed separately under the approved criteria and the annual award cap.
+
 ## 1. Application Details
 
 | Field | Response |
@@ -111,14 +113,15 @@ Do not provide detailed medical, financial, or sensitive personal records unless
 
 ## 10. Documents Attached
 
-- [ ] Child identity document
-- [ ] Relationship or dependency evidence
-- [ ] School enrolment confirmation
+- [ ] Birth certificate or approved equivalent
+- [ ] School enrolment letter or confirmation
 - [ ] School invoice / fee note
 - [ ] Receipt / proof of payment, if requested
 - [ ] Applicant declaration and consent form
 - [ ] Labour-hire agency employment / assignment verification, if applicable
 - [ ] Other: 
+
+Finance verifies salary eligibility internally. Do not attach a payslip unless Finance later requires it as an exception.
 
 ## 11. Applicant Declaration
 
