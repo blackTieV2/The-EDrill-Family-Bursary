@@ -87,15 +87,9 @@ If approved, a labour-hire agency employee may be eligible if all of the followi
 7. The child meets the child and schooling eligibility rules.
 8. Required evidence is provided.
 
-All labour-hire wording must avoid implying that labour-hire agency employees are EDrill employees.
-
-Approved wording:
+All labour-hire wording must avoid implying that labour-hire agency employees are EDrill employees. Use the following wording:
 
 > eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs
-
-or:
-
-> eligible employees of EDrill's contractor working on EDrill rigs
 
 ## 9. Eligible Child
 

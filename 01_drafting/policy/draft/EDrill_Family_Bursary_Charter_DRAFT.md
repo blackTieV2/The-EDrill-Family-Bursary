@@ -67,13 +67,9 @@ The Company may decline an application where eligibility is not proven, document
 
 Subject to the approved internal controls and practical agency acknowledgement requirements, the Bursary may include eligible children of eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs.
 
-Labour-hire participants must not be described as EDrill employees unless that is legally accurate. The preferred wording is:
+Labour-hire participants must not be described as EDrill employees unless that is legally accurate. Use the following wording:
 
 > eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs
-
-or:
-
-> eligible employees of EDrill's contractor working on EDrill rigs
 
 Labour-hire participation must be governed by a separate appendix or procedure section covering:
 

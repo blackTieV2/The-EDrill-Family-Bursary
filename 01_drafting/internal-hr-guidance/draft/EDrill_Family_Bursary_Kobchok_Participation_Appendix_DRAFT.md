@@ -14,15 +14,9 @@ The purpose is to support eligible children of workers contributing to EDrill ri
 
 ## 2. Core Relationship Principle
 
-Labour-hire agency employees are not to be described as EDrill employees unless that is legally accurate.
-
-Approved wording:
+Labour-hire agency employees are not to be described as EDrill employees unless that is legally accurate. Use the following wording:
 
 > eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs
-
-or:
-
-> eligible employees of EDrill's contractor working on EDrill rigs
 
 Avoid:
 

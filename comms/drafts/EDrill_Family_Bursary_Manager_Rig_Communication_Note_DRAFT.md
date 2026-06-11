@@ -44,11 +44,7 @@ Managers must not say:
 
 If labour-hire agency participation is approved, use careful wording:
 
-> eligible labour-hire agency employees assigned to EDrill rigs
-
-or:
-
-> eligible contractor personnel assigned to EDrill rigs
+> eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs
 
 Do not describe labour-hire agency personnel as "our employees".
 
