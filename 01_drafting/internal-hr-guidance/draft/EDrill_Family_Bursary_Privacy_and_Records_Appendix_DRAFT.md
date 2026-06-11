@@ -2,8 +2,8 @@
 
 Status: Draft for internal review only  
 Version: 0.1  
-Effective date: To be confirmed  
-Owner: To be confirmed  
+Controlled issue date: To be completed in Final Issue Approval Record
+Owner: Bursary Administrator with Finance support
 Important: this draft is a control appendix, not legal advice. The Phase 1 privacy and records approach is a Chairman/Committee-approved internal compliance position; no external legal advice obtained.
 
 ## 1. Purpose

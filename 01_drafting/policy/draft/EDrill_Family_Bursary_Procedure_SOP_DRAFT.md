@@ -2,9 +2,9 @@
 
 Status: Draft for internal review only  
 Version: 0.1  
-Effective date: To be confirmed  
-Owner: To be confirmed  
-Administrator: Bangkok office / Thailand HR, subject to confirmation  
+Effective date: 1 October 2026
+Owner: Bangkok Office / Bursary Administrator
+Administrator: Bangkok Office / Bursary Administrator
 Important: this draft reflects confirmed Phase 1 management decisions recorded in the decision log. It remains in draft form and must not be treated as operational until the Launch Approval Checklist records all required Phase 1 approvals and final communications checks.
 
 ## 1. Purpose
@@ -53,20 +53,18 @@ No award may be issued unless:
 
 ## 5. Annual Timetable
 
-The annual timetable should be confirmed before each Award Year.
-
-Provisional first-year timetable:
+First-year timetable:
 
 | Step | Target timing |
 | --- | --- |
 | Confirm budget and launch gates | Before internal announcement |
-| Internal announcement issued | To be confirmed |
-| Application window opens | To be confirmed |
-| Application window closes | To be confirmed |
-| Eligibility screening | Within 2 weeks of closing date |
-| Committee review | Within 3 weeks of closing date |
+| Internal announcement issued | 1 October 2026 |
+| Application window opens | 1 October 2026 |
+| Application window closes | 31 October 2026 |
+| Finance eligibility screen completed by | 15 November 2026 |
+| Committee review completed by | 30 November 2026 |
 | Award approval | Within 4 weeks of closing date |
-| First payment/reimbursement | After award letter acceptance and Finance approval |
+| First payment | Next available payroll cycle after award approval |
 | Quarterly evidence/payment review | Each quarter |
 | Annual review | End of Award Year |
 

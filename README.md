@@ -74,9 +74,11 @@ This repo is intended to:
 
 - Program Chair: Alex Maroske - Chairman
 - Committee: Jacquline Ho - Senior Finance Manager, Singapore; Malee Pasutharnchart - Office Manager / Finance, Thailand; Luke Byrne - Director of Operations, Thailand; Sittikorn Intahkaew - Regional QHSSE Manager
-- Committee Secretary: [Name / role to be confirmed]
-- HR Contact: [Name / role to be confirmed]
-- Finance Contact: [Name / role to be confirmed]
+- Committee Chairman: Alex Maroske
+- HR/Admin contact: Malee Pasutharnchart
+- Finance contact: Malee Pasutharnchart / Jacquline Ho
+- Operations contact: Luke Byrne
+- QHSSE / records / conflict support: Sittikorn Intahkaew
 
 ## License
 

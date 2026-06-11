@@ -2,9 +2,9 @@
 
 Status: Draft for internal review only  
 Version: 0.1  
-Effective date: To be confirmed  
-Owner: To be confirmed  
-Administrator: Bangkok office / Thailand HR, subject to confirmation  
+Effective date: 1 October 2026
+Owner: Bursary Committee Chairman
+Administrator: Bangkok Office / Bursary Administrator
 Important: this draft reflects confirmed Phase 1 management decisions recorded in the decision log. It remains in draft form and must not be treated as operational until the Launch Approval Checklist records all required Phase 1 approvals and final communications checks.
 
 ## 1. Purpose

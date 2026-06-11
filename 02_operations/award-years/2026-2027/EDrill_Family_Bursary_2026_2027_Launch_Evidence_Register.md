@@ -11,7 +11,7 @@ This register records launch administration evidence only. It does not by itself
 | --- | --- |
 | Award Year | 2026-2027 |
 | Planned launch date | 1 October 2026 |
-| Register owner |  |
+| Register owner | Bangkok Office / Bursary Administrator |
 | Secure evidence location |  |
 | Last updated |  |
 
@@ -32,12 +32,12 @@ This register records launch administration evidence only. It does not by itself
 | 11 | Applicant privacy/consent form approved | Open / pending evidence |  |  |  |  |
 | 12 | Internal launch message approved | Open / pending evidence |  |  |  |  |
 | 13 | LinkedIn/corporate website post approved | Open / pending evidence |  |  |  |  |
-| 14 | Application opening date | Open / pending evidence |  |  |  |  |
-| 15 | Application closing date | Open / pending evidence |  |  |  |  |
-| 16 | Committee review date | Open / pending evidence |  |  |  |  |
+| 14 | Application opening date | Open / pending evidence |  | Bangkok Office / Bursary Administrator |  | Target: 1 October 2026 |
+| 15 | Application closing date | Open / pending evidence |  | Bangkok Office / Bursary Administrator |  | Target: 31 October 2026 |
+| 16 | Committee review date | Open / pending evidence |  | Bursary Committee Chairman |  | Target completion by 30 November 2026 |
 | 17 | Award decision record | Open / pending evidence |  |  |  |  |
 | 18 | Payroll instruction record | Open / pending evidence |  |  |  |  |
-| 19 | Payment confirmation | Open / pending evidence |  |  |  |  |
+| 19 | Payment confirmation | Open / pending evidence |  | Finance / Payroll |  | First payment: next available payroll cycle after award approval |
 
 ## 3. Readiness Summary
 

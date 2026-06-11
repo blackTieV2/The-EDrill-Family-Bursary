@@ -74,7 +74,7 @@ Key launch administration records:
 | Bangkok HR administrator confirmed | Appointment / email | HR | Open |  |
 | Committee members appointed | Decision Log | Executive Sponsor / HR / Committee | Approved | Alex Maroske, Jacquline Ho, Malee Pasutharnchart, Luke Byrne, and Sittikorn Intahkaew confirmed |
 | Committee conflict and confidentiality declarations prepared | `templates/EDrill_Family_Bursary_Committee_Conflict_and_Confidentiality_Declaration_TEMPLATE.md` | HR / Committee | Approved control | Declarations still required before review/decision activity |
-| Application window confirmed | HR launch plan | HR | Open |  |
+| Application window confirmed | HR launch plan | Bangkok Office / Bursary Administrator | Open | Opens 1 October 2026; closes 31 October 2026 |
 | Secure submission route confirmed | HR / IT note | HR / IT | Open |  |
 | Launch Workplan and RACI approved | Approved workplan | Executive Sponsor / HR | Open |  |
 | Launch evidence file established | `02_operations/award-years/2026-2027/EDrill_Family_Bursary_2026_2027_Launch_Evidence_Register.md` + secure location | HR / Finance / Committee | Open | Access must be restricted |

@@ -2,8 +2,8 @@
 
 Status: Draft for internal review only  
 Version: 0.1  
-Effective date: To be confirmed  
-Owner: To be confirmed  
+Effective date: 1 October 2026
+Owner: Finance / Payroll
 Important: this draft reflects confirmed Phase 1 management decisions recorded in the decision log. It remains in draft form and must not be treated as operational until the Launch Approval Checklist records all required Phase 1 approvals and final communications checks.
 
 ## 1. Purpose
