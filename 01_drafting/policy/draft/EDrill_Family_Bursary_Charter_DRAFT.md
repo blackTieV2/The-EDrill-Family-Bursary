@@ -5,7 +5,7 @@ Version: 0.1
 Effective date: To be confirmed  
 Owner: To be confirmed  
 Administrator: Bangkok office / Thailand HR, subject to confirmation  
-Important: this draft is based on provisional assumptions recorded in the decision log. It must not be issued or relied on operationally until Finance, Payroll, Legal/Compliance, and the Executive Sponsor have approved the open launch gates.
+Important: this draft reflects confirmed Phase 1 management decisions recorded in the decision log. It remains in draft form and must not be treated as operational until the Launch Approval Checklist records all required Phase 1 approvals and final communications checks.
 
 ## 1. Purpose
 
@@ -41,7 +41,7 @@ For this Charter:
 
 - "Award Year" means the annual period for which a Bursary is granted. The first Award Year is intended to commence on 1 October 2026, subject to approval.
 - "Bursary" means The EDrill Family Bursary.
-- "Company" means Energy Drilling Management Pte. Ltd. acting through its Thailand registered presence / Thailand office, subject to Finance confirmation of the exact contracting, accounting, tax, and approval treatment.
+- "Company" means Energy Drilling Management Pte. Ltd. (EDMPL).
 - "Eligible Child" means a child who meets the age, relationship, schooling, and evidence requirements set out in the Bursary rules.
 - "Eligible Employee" means an employee who meets the employment, salary, service, and operational assignment requirements set out in the Bursary rules.
 - "Labour-Hire Eligible Worker" means an eligible employee of the appointed labour-hire agency at the time of application who is assigned to EDrill rigs and meets the separate labour-hire eligibility requirements, if labour-hire participation is approved.
@@ -65,7 +65,7 @@ The Company may decline an application where eligibility is not proven, document
 
 ## 6. Labour-Hire Agency Participation
 
-Subject to legal, operational, Finance, and agency acknowledgement requirements, the Bursary may include eligible children of eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs.
+Subject to the approved internal controls and practical agency acknowledgement requirements, the Bursary may include eligible children of eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs.
 
 Labour-hire participants must not be described as EDrill employees unless that is legally accurate. The preferred wording is:
 
@@ -95,11 +95,11 @@ The current provisional award limits are:
 
 The Bursary is provisionally limited to a maximum of six awards per Award Year.
 
-Recipient-taxable treatment is recorded; company-side Finance/Payroll processing remains a launch gate. The final award value, payment route, withholding, reporting, payslip, year-end certificate, accounting treatment, labour-hire agency onward-payment controls, budget, and cost centre must be confirmed by Finance/Payroll before awards are issued.
+For EDrill employees, approved awards are paid into the recipient employee's bank account through the normal payroll session and added as a line item on the employee's payslip. The bursary payment is tax liable to the recipient, and the recipient is responsible for their own tax position.
 
-For EDrill employee awards, the intended route is quarterly payment directly to the employee's nominated bank account after evidence and eligibility checks.
+Cost centre / GL code handling is a Finance administrative processing detail and is not a policy blocker.
 
-For labour-hire worker awards, the intended route is quarterly payment to the relevant labour-hire agency for onward payment to its employee, after evidence, eligibility checks, and agency acknowledgement.
+For labour-hire worker awards, EDMPL pays bursary funds to the appointed labour-hire agency at the time of application. The agency pays onward to its employee using its existing payroll/payment process, similar to salary handling. The agency is responsible for obtaining or holding employee receipt or acknowledgement of funds in the same practical way it handles salary/payment acknowledgement. EDrill may request confirmation that onward payment was made.
 
 ## 8. Eligible Education Costs
 
@@ -121,9 +121,9 @@ Unused award amounts do not carry forward unless expressly approved.
 
 ## 9. Governance
 
-The Bursary should be overseen by a committee appointed by the Executive Sponsor or delegated authority.
+The Bursary is overseen by the confirmed Phase 1 Bursary Committee.
 
-The provisional committee model includes:
+The Phase 1 Bursary Committee is:
 
 - Alex Maroske - Chairman;
 - Jacquline Ho - Senior Finance Manager, Singapore;
@@ -131,7 +131,7 @@ The provisional committee model includes:
 - Luke Byrne - Director of Operations, Thailand;
 - Sittikorn Intahkaew - Regional QHSSE Manager.
 
-The committee should be formally appointed before applications open.
+Conflict-of-interest and confidentiality declarations are required before Committee review or decision activity.
 
 The Committee is responsible for:
 
@@ -173,7 +173,7 @@ Other evidence or verification may include:
 - evidence of relationship or legal dependency;
 - school invoice, fee note, or receipt;
 - bank/payment details where reimbursement is approved;
-- other documents reasonably required by HR, Finance, or Legal/Compliance.
+- other documents reasonably required by HR, Finance, or the Committee.
 
 Applicants should not be required to submit a payslip unless Finance later requires it as an exception.
 
@@ -185,13 +185,15 @@ The Bursary involves personal data relating to employees, children, family circu
 
 The Company must collect only the data necessary to administer the Bursary.
 
-Before application forms are issued, Legal/Compliance must approve:
+The Phase 1 privacy and records approach is a Chairman/Committee-approved internal compliance position; no external legal advice obtained.
+
+The approved Phase 1 controls are:
 
 - privacy notice wording;
 - applicant consent wording;
 - data access rules;
 - school verification process;
-- cross-border transfer handling, if any;
+- minimised or anonymised Committee review where practicable;
 - retention period;
 - secure storage requirements.
 
@@ -201,19 +203,19 @@ Beneficiary names, photographs, or personal stories must not be published unless
 
 Payments must follow the approved Finance process.
 
-The working payment route, subject to Finance/Payroll/Legal approval, is:
+The approved Phase 1 payment route is:
 
-1. EDrill employee awards are paid quarterly to the employee's nominated bank account.
-2. Labour-hire crew awards are paid quarterly to the relevant labour-hire agency for onward payment to its employee.
-3. Direct school payment or reimbursement may be used only if approved as a fallback or exception.
+1. EDrill employee awards are paid through the normal payroll session into the recipient employee's bank account and shown as a payslip line item.
+2. Labour-hire crew awards are paid by EDMPL to the appointed labour-hire agency at the time of application for onward payment to its employee using the agency's existing payroll/payment process.
+3. Direct school payment or reimbursement may be used only if approved as an exception.
 
 No payment should be made until:
 
 - the award is approved;
 - eligibility is confirmed;
 - evidence is complete;
-- payment route is approved;
-- recipient-taxable treatment is recorded and company-side Finance/Payroll processing mechanics are approved;
+- payment follows the approved Phase 1 route;
+- recipient-taxable treatment is recorded;
 - any required consent is obtained.
 
 ## 14. Renewal
@@ -263,19 +265,17 @@ If employee/member contributions, public appeals, or a separate Singapore-based 
 
 ## 18. Launch Conditions
 
-This Charter should not be issued as final until the following launch gates are closed:
+This Charter should not be issued as final until the following Phase 1 controls are recorded:
 
-- funding entity confirmed;
-- budget and cost centre approved;
-- recipient-taxable treatment recorded and company-side Finance/Payroll processing mechanics approved;
-- payment route approved;
-- privacy and consent wording approved;
-- discretionary/non-contractual wording approved;
-- labour-hire agency model approved, if applicable;
+- EDMPL funding entity recorded;
+- routine Finance payroll/admin setup completed;
+- approved payroll and labour-hire agency payment routes recorded;
+- Chairman/Committee internal compliance approval recorded;
+- consent, confidentiality, data minimisation, anonymised review where practicable, and restricted access controls recorded;
+- labour-hire agency acknowledgement completed, if applicable;
 - selection method approved;
-- committee appointed;
-- internal communication approved;
-- external communication approved, if any.
+- conflict-of-interest and confidentiality declarations completed before review/decision activity;
+- final communications pre-publication check completed.
 
 ## 19. Approval
 
@@ -284,5 +284,5 @@ This Charter should not be issued as final until the following launch gates are 
 | Executive Sponsor |  |  |  |
 | HR / Bangkok Administrator |  |  |  |
 | Finance |  |  |  |
-| Legal / Compliance |  |  |  |
+| Chairman / Committee internal compliance |  |  |  |
 | Operations |  |  |  |

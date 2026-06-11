@@ -3,7 +3,7 @@
 Status: Draft for internal review only  
 Version: 0.1  
 Use: HR, Finance, Operations, and applicants may use this checklist to confirm required evidence.  
-Important: final evidence requirements must be approved by HR, Finance, Payroll, and Legal/Compliance before use.
+Important: final evidence requirements follow the Decision Log and must be administered by HR, Finance, Payroll, and the Committee before use.
 
 ## 1. Application Reference
 
@@ -84,7 +84,7 @@ Finance verifies salary eligibility internally. Applicants should not be require
 | Ineligible |  |
 | Referred to Finance |  |
 | Referred to Operations |  |
-| Referred to Legal/Compliance |  |
+| Referred to Committee / internal compliance |  |
 | Referred to Committee |  |
 
 ## 9. HR Sign-Off

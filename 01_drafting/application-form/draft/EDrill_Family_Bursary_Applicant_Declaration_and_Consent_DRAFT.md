@@ -2,7 +2,7 @@
 
 Status: Draft for internal review only  
 Version: 0.1  
-Important: this form contains provisional consent wording only. Legal/Compliance must approve the final privacy notice and consent wording before use.
+Important: this form reflects the Phase 1 Chairman/Committee-approved internal compliance position; no external legal advice obtained.
 
 ## 1. Applicant Details
 
@@ -48,12 +48,12 @@ Subject to the approved privacy notice, I consent to the collection and use of m
 - committee review;
 - award approval;
 - payment processing;
-- audit, tax, payroll, legal, and compliance purposes;
+- audit, tax, payroll, and internal compliance purposes;
 - annual reporting using minimised or aggregated data where practical.
 
 ## 5. Consent to Verification
 
-Subject to applicable law and approved privacy wording, I authorise HR, Finance, Operations, Legal/Compliance, and other authorised personnel to verify information relevant to my application with:
+Subject to applicable law and approved privacy wording, I authorise HR, Finance, Operations, Committee members, and other authorised personnel to verify information relevant to my application with:
 
 - internal HR records;
 - Finance or Payroll records;
@@ -65,7 +65,7 @@ Subject to applicable law and approved privacy wording, I authorise HR, Finance,
 
 I understand that my application information may be shared with authorised personnel involved in administering, reviewing, approving, paying, auditing, or reporting on the Bursary.
 
-Where practical, committee review should use minimised information, such as application reference numbers and salary bands, rather than unnecessary detailed personal data.
+Finance/HR receives raw applications. Finance verifies salary eligibility internally. Where practicable, Committee review should use anonymised or minimised information, such as application reference numbers and salary bands, rather than unnecessary detailed personal data.
 
 ## 7. Publicity Consent
 
@@ -84,4 +84,3 @@ Separate written consent is required for any internal or external publicity iden
 | HR name | Signature / receipt | Date |
 | --- | --- | --- |
 |  |  |  |
-

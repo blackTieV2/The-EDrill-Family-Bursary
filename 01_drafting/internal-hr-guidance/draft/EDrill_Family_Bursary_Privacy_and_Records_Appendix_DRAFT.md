@@ -4,7 +4,7 @@ Status: Draft for internal review only
 Version: 0.1  
 Effective date: To be confirmed  
 Owner: To be confirmed  
-Important: this draft is a control appendix, not approved privacy advice. Thai privacy requirements, consent wording, cross-border transfer handling, and retention periods must be confirmed by Legal/Compliance before use.
+Important: this draft is a control appendix, not legal advice. The Phase 1 privacy and records approach is a Chairman/Committee-approved internal compliance position; no external legal advice obtained.
 
 ## 1. Purpose
 
@@ -16,14 +16,15 @@ The Bursary requires handling personal data about employees, children, family re
 
 This Appendix is a draft internal control document.
 
-It must not be issued as final until Legal/Compliance confirms:
+It is approved internally for Phase 1 operation, subject to the approved controls in this document:
 
-- applicable Thai privacy requirements;
 - privacy notice wording;
 - consent wording;
-- lawful basis for collection and verification;
-- cross-border transfer requirements, if any;
-- retention period;
+- consent-based collection and verification;
+- confidentiality;
+- data minimisation;
+- anonymised Committee review where practicable;
+- restricted access controls;
 - beneficiary publicity consent requirements.
 
 ## 3. Data Minimisation
@@ -60,7 +61,7 @@ The Bursary may require the following data categories:
 
 ## 5. Data That Should Usually Be Avoided
 
-Unless Legal/Compliance approves a specific need, the Bursary should avoid collecting:
+Unless the Committee approves a specific need, the Bursary should avoid collecting:
 
 - full medical records;
 - unnecessary family financial records;
@@ -117,11 +118,10 @@ Access should be limited to:
 - Bangkok HR / administrator;
 - Finance / Payroll personnel handling payment or tax treatment;
 - Operations personnel verifying assignment;
-- Legal/Compliance reviewers;
 - Bursary Committee members, limited to the data needed for review;
 - Executive Sponsor or approving authority.
 
-Committee packs should avoid unnecessary payroll detail. Salary bands or threshold confirmation should be used where possible.
+Finance/HR receives raw applications. Finance verifies salary eligibility internally. Committee packs should be anonymised where practicable and should avoid unnecessary payroll detail. Salary bands or threshold confirmation should be used where possible.
 
 ## 9. Verification
 
@@ -133,11 +133,11 @@ Verification may include:
 - school confirmation of enrolment or invoices;
 - labour-hire agency confirmation of employment and assignment, if applicable.
 
-Verification with schools or external parties should occur only where the applicant has provided consent or Legal/Compliance confirms another lawful basis.
+Verification with schools or external parties should occur only where the applicant has provided consent and verification is needed for administration.
 
 ## 10. Cross-Border Sharing
 
-If applicant data is reviewed by Singapore management, group HR, or other personnel outside Thailand, Legal/Compliance must confirm whether cross-border transfer requirements apply.
+If applicant data is reviewed by Singapore management, group HR, or other personnel outside Thailand, use minimised or anonymised data where practicable under the Chairman/Committee-approved internal compliance position.
 
 Until confirmed, use minimised data where possible:
 
@@ -150,7 +150,7 @@ Until confirmed, use minimised data where possible:
 
 ## 11. Storage
 
-Bursary records should be stored in a secure location approved by HR/IT/Compliance.
+Bursary records should be stored in a secure location approved by HR/IT or the Committee.
 
 Minimum controls:
 
@@ -164,9 +164,7 @@ Minimum controls:
 
 ## 12. Retention
 
-Retention period is open and must be confirmed by Legal/Compliance.
-
-Until confirmed, do not delete Bursary records except under approved retention instructions.
+Records should be retained for HR, payroll, audit, tax, and administration needs under restricted access. The Committee may set or update the retention period administratively.
 
 The retention schedule should distinguish:
 
@@ -185,14 +183,14 @@ No beneficiary name, photograph, school name, personal story, or family circumst
 
 - specific written consent has been obtained;
 - the consent identifies the intended communication channel;
-- Legal/Compliance and Communications approve the wording;
+- the Committee and Communications approve the wording;
 - the beneficiary is not pressured to agree.
 
 LinkedIn or external posts should be values-led and should not identify individual beneficiaries unless separately approved.
 
 ## 14. Incident Handling
 
-Any suspected loss, misdirected email, unauthorised access, or improper disclosure of Bursary data must be reported immediately to HR and Legal/Compliance.
+Any suspected loss, misdirected email, unauthorised access, or improper disclosure of Bursary data must be reported immediately to HR and the Committee.
 
 The incident record should include:
 
@@ -206,7 +204,7 @@ The incident record should include:
 
 ## 15. Annual Privacy Review
 
-At the end of each Award Year, HR and Legal/Compliance should review:
+At the end of each Award Year, HR and the Committee should review:
 
 - whether data collected was necessary;
 - whether any data can be removed from future forms;
@@ -221,6 +219,5 @@ At the end of each Award Year, HR and Legal/Compliance should review:
 | --- | --- | --- | --- |
 | HR / Bangkok Administrator |  |  |  |
 | Finance / Payroll |  |  |  |
-| Legal / Compliance |  |  |  |
+| Chairman / Committee internal compliance |  |  |  |
 | IT / Records Owner, if required |  |  |  |
-

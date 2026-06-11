@@ -2,7 +2,7 @@
 
 Status: Draft for internal review only  
 Version: 0.1  
-Important: this template must not be issued until Finance/Payroll, Legal/Compliance, HR, and the Executive Sponsor approve the final payment, tax, privacy, and discretionary wording.
+Important: this template reflects the approved Phase 1 payroll/payment and internal compliance positions. It remains a draft template and must not be issued until the relevant award approval record and final document checks are complete.
 
 ## Template
 
@@ -21,7 +21,7 @@ We are pleased to inform you that your application for The EDrill Family Bursary
 | Award Year | [Award Year] |
 | Approved award category | [EDrill employee child / labour-hire agency employee child] |
 | Approved maximum amount | THB [amount] |
-| Payment route | [EDrill employee bank payment / labour-hire agency onward payment / other approved route] |
+| Payment route | [EDrill employee payroll-session bank payment / labour-hire agency onward payment / other approved route] |
 | Payment schedule | [Quarterly / other] |
 | Eligible expenses | [Tuition / compulsory school fees / textbooks / uniforms / required materials / other approved] |
 
@@ -34,14 +34,16 @@ This award is subject to:
 - continued eligibility;
 - continued school enrolment;
 - complete and accurate supporting documents;
-- Finance approval before each payment;
+- Finance/Payroll administration before each payment;
 - applicable tax/payroll, withholding, reporting, and accounting handling;
 - no duplicate education support for the same child and same expense;
 - compliance with the Bursary Charter, Procedure, and approved rules.
 
-Any Bursary payment will be processed subject to applicable tax, payroll, withholding, reporting, accounting, and legal requirements. The Company may deduct, withhold, report, adjust, suspend, or recover amounts where required by law, internal controls, or the approved Bursary rules.
+For EDrill employees, approved awards are paid into the recipient employee's bank account through the normal payroll session and added as a line item on the employee's payslip. Any Bursary payment will be processed subject to applicable tax, payroll, withholding, reporting, accounting, and internal control requirements. The Company may deduct, withhold, report, adjust, suspend, or recover amounts where required by law, internal controls, or the approved Bursary rules.
 
 Bursary payments are tax liable to the recipient. You are responsible for your own tax position.
+
+For labour-hire agency employees, EDMPL pays approved bursary funds to the appointed labour-hire agency at the time of application. The agency pays onward to its employee using its existing payroll/payment process.
 
 ## 3. Renewal
 

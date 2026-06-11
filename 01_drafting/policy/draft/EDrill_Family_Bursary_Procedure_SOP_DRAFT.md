@@ -5,7 +5,7 @@ Version: 0.1
 Effective date: To be confirmed  
 Owner: To be confirmed  
 Administrator: Bangkok office / Thailand HR, subject to confirmation  
-Important: this draft is based on provisional assumptions recorded in the decision log. It must not be issued or relied on operationally until Finance, Payroll, Legal/Compliance, and the Executive Sponsor have approved the open launch gates.
+Important: this draft reflects confirmed Phase 1 management decisions recorded in the decision log. It remains in draft form and must not be treated as operational until the Launch Approval Checklist records all required Phase 1 approvals and final communications checks.
 
 ## 1. Purpose
 
@@ -28,12 +28,12 @@ This Procedure does not apply to Myanmar or other locations unless formally exte
 
 No award may be issued unless:
 
-1. the funding entity and cost centre are confirmed;
+1. the funding entity is EDMPL and routine Finance processing details are recorded;
 2. the annual budget is approved;
-3. recipient-taxable treatment is recorded and company-side Finance/Payroll processing mechanics are approved;
-4. the payment route is approved;
-5. privacy and consent wording is approved;
-6. the committee is appointed;
+3. recipient-taxable treatment is recorded;
+4. the approved payroll or labour-hire agency payment route is used;
+5. applicant consent, confidentiality, data minimisation, anonymised Committee review where practicable, and restricted access controls are used;
+6. the confirmed Phase 1 Committee members have completed conflict-of-interest and confidentiality declarations before review/decision activity;
 7. the selection method is approved;
 8. labour-hire agency participation is approved, if applicable;
 9. the applicant meets eligibility requirements;
@@ -45,9 +45,9 @@ No award may be issued unless:
 | --- | --- |
 | Executive Sponsor | Approves scheme launch, annual budget, material changes, and final award recommendations where required |
 | Bangkok HR / Administrator | Coordinates application cycle, receives applications, checks completeness, maintains records, communicates with applicants |
-| Finance / Payroll | Confirms payment route, tax/payroll treatment, cost centre, payment controls, evidence requirements, salary-cap eligibility, and payment execution |
+| Finance / Payroll | Administers the approved payroll route, records cost centre / GL details as administrative processing items, verifies salary-cap eligibility, and supports payment execution |
 | Operations | Confirms rig assignment, operational eligibility, and labour-hire agency assignment/continuity where relevant |
-| Legal / Compliance | Reviews privacy, consent, discretionary wording, labour-hire agency wording, communications, and future fundraising/ROS risks |
+| Chairman / Committee internal compliance | Approves Phase 1 consent, confidentiality, data minimisation, discretionary wording, labour-hire agency wording, and communications controls; no external legal advice obtained |
 | Bursary Committee | Reviews eligible applications, manages conflicts, applies selection method, records recommendations |
 | Labour-Hire Agency Contact, if applicable | Verifies agency employment status, supports onward payment where approved, and provides any required acknowledgement |
 
@@ -78,10 +78,10 @@ Before each Award Year, Bangkok HR should prepare an annual planning note coveri
 - confirmed number of available bursaries;
 - confirmed award value;
 - confirmed budget;
-- confirmed cost centre;
+- routine Finance processing details, including cost centre / GL code if required by Finance;
 - confirmed committee members;
 - any rule changes from prior year;
-- status of legal, payroll, privacy, and payment approvals.
+- status of payroll, privacy, payment, agency, and communications controls.
 
 The Executive Sponsor or delegated authority must approve the annual planning note before applications open.
 
@@ -103,7 +103,7 @@ The launch message should explain:
 
 The launch message must avoid describing the Bursary as a charity, foundation, registered society, public fund, donation-funded programme, or guaranteed entitlement.
 
-No LinkedIn or external public post should be published until Legal/Compliance and the Executive Sponsor approve the wording.
+No internal or external communication should be published until the final Chairman/Committee/Communications pre-publication check confirms that the wording contains no fundraising language, does not describe the Bursary as a charity, society, foundation, or ROS body, does not claim tax-free or non-taxable treatment, does not imply guaranteed entitlement, and does not identify children/beneficiaries without specific consent.
 
 ## 8. Application Submission
 
@@ -180,10 +180,10 @@ For each labour-hire applicant:
 1. The relevant labour-hire agency should verify employment status.
 2. EDrill Operations should verify assignment to EDrill rigs.
 3. Continuous work for EDrill since 1 January 2025 should be verified.
-4. HR/Legal should confirm that communications do not describe labour-hire agency staff as EDrill employees.
-5. Finance should confirm the payment route to the labour-hire agency and the agency's onward-payment controls.
+4. HR/Committee should confirm that communications do not describe labour-hire agency staff as EDrill employees.
+5. Finance should use the approved payment route to the labour-hire agency and may request confirmation that onward payment was made.
 
-No labour-hire award should be issued until labour-hire participation has been approved and any required agency acknowledgement is obtained.
+No labour-hire award should be issued until any required agency acknowledgement is obtained.
 
 ## 13. Committee Review
 
@@ -253,7 +253,7 @@ Decision records should be retained according to the approved retention period.
 
 ## 16. Award Approval
 
-The Committee should submit award recommendations to the approving authority.
+The Committee approves award decisions.
 
 Award approval should confirm:
 
@@ -268,7 +268,7 @@ Award approval should confirm:
 - evidence requirements;
 - renewal status.
 
-No award letter should be issued until the approval record is complete.
+After Committee approval, Payroll is instructed by the Chairman for EDrill employee awards. No award letter should be issued until the approval record is complete.
 
 ## 17. Award Letter and Acceptance
 
@@ -309,14 +309,14 @@ Finance should process payment only after:
 2. award letter has been accepted;
 3. required evidence is complete;
 4. payment route is approved;
-5. recipient-taxable treatment is recorded and company-side Finance/Payroll processing mechanics are approved;
+5. recipient-taxable treatment is recorded;
 6. employee bank details or labour-hire agency payment details are verified.
 
-Approved working payment route, subject to Finance/Payroll/Legal sign-off:
+Approved Phase 1 payment route:
 
-1. EDrill employee awards are paid quarterly directly to the employee's nominated bank account.
-2. Labour-hire crew awards are paid quarterly to the relevant labour-hire agency for onward payment to its employee.
-3. Direct school payment or reimbursement may be used only if Finance/Payroll/Legal later approve that route as an exception or revised process.
+1. EDrill employee awards are paid into the recipient employee's bank account through the normal payroll session and added as a line item on the employee's payslip.
+2. Labour-hire crew awards are paid by EDMPL to the appointed labour-hire agency at the time of application for onward payment to its employee using the agency's existing payroll/payment process.
+3. Direct school payment or reimbursement may be used only if approved as an exception or revised process.
 
 Payments should not exceed the approved award value. Evidence of schooling and education-related costs should be retained for audit and control even where the award is paid to an employee bank account or through a labour-hire agency.
 
@@ -391,8 +391,8 @@ The evidence file should contain:
 - approved Launch Workplan and RACI;
 - completed Launch Approval Checklist;
 - decision log;
-- Finance / Payroll Position Template;
-- Legal/Compliance approval record;
+- Finance / Payroll administration record, if used;
+- Chairman/Committee internal compliance approval record;
 - labour-hire agency acknowledgement, if applicable;
 - application forms;
 - evidence checklists;
@@ -406,11 +406,11 @@ The evidence file should contain:
 - appeal records;
 - annual reports.
 
-Access should be limited to authorised HR, Finance, Operations, Legal/Compliance, and approving personnel.
+Access should be limited to authorised HR, Finance, Operations, Committee, and approving personnel.
 
-Retention period must be confirmed by Legal/Compliance.
+Records should be retained for HR, payroll, audit, tax, and administration needs under restricted access. The Committee may set or update the retention period administratively.
 
-Committee members should receive anonymised review packs where practical and should not receive raw salary data or unnecessary child/family documents unless HR and Legal/Compliance approve the disclosure.
+Committee members should receive anonymised review packs where practical and should not receive raw salary data or unnecessary child/family documents unless HR and the Committee approve the disclosure.
 
 ## 25. Privacy
 
@@ -421,7 +421,7 @@ HR must not share applicant or child data beyond authorised personnel unless:
 - it is necessary for administration;
 - the applicant has consented where required;
 - there is another lawful basis;
-- the transfer has been approved by Legal/Compliance.
+- the transfer has been approved under the Chairman/Committee internal compliance position.
 
 Beneficiary names, photos, or personal stories must not be used in internal or external communications without specific written consent.
 
@@ -462,5 +462,5 @@ Any material amendment should be approved by the appropriate authority and recor
 | Executive Sponsor |  |  |  |
 | HR / Bangkok Administrator |  |  |  |
 | Finance |  |  |  |
-| Legal / Compliance |  |  |  |
+| Chairman / Committee internal compliance |  |  |  |
 | Operations |  |  |  |

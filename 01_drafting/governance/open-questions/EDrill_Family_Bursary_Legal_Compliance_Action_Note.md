@@ -74,8 +74,8 @@ Practical implication:
 - Bursary payments should be treated as tax liable to the recipient.
 - Recipients are responsible for their own tax position.
 - EDrill should not describe the bursary as tax-free.
-- Finance/Payroll confirmation of company-side processing, withholding, reporting, payslip, and accounting treatment remains a launch gate.
-- Direct employee bank-account payment should be treated as a controlled recipient-taxable payment route requiring company-side Finance/Payroll processing confirmation.
+- Finance/Payroll administration is confirmed for Phase 1: EDrill employee awards are paid through normal payroll and shown as payslip line items.
+- Direct employee bank-account payment should be treated as a controlled recipient-taxable payroll route.
 - Payment through a labour-hire agency should be separately confirmed for accounting, withholding/reporting, onward-payment evidence, and labour-law treatment.
 
 Thailand labour-hire note:
@@ -104,9 +104,9 @@ The bursary should not launch until each gate below has an accountable owner and
 | Gate | Owner | Required answer before launch |
 | --- | --- | --- |
 | Legal entity and authority | Executive Sponsor / Finance | Which entity funds and approves the scheme |
-| Cost centre and budget | Finance | Budget approved and accounting treatment confirmed |
-| Thai tax / payroll processing | Thailand Finance / Payroll / Tax adviser | Recipient-taxable position confirmed; withholding/reporting/payslip/accounting process still to be confirmed |
-| Payment route | Finance / HR | Direct employee bank payment, labour-hire agency payment, payroll, or accounts payable |
+| Cost centre and budget | Finance | Cost centre / GL code is a Finance administrative processing detail, not a policy blocker |
+| Thai tax / payroll processing | Thailand Finance / Payroll / Committee | Recipient-taxable position confirmed; EDrill employee awards paid through normal payroll and shown as payslip line items |
+| Payment route | Finance / HR / Committee | EDrill employee payroll route and labour-hire agency onward-payment route approved |
 | Thai labour treatment | HR / Legal | Whether scheme remains discretionary and non-contractual |
 | Privacy and data handling | HR / Legal / Compliance | What data can be collected and what consent wording is required |
 | Labour-hire agency inclusion | Operations / Legal / agency contact | How employment/service and onward payment are verified without implying EDrill employment |
@@ -188,7 +188,7 @@ Practical compromise:
 Do not publish a LinkedIn post until:
 
 - the scheme charter is approved;
-- the payment route is confirmed;
+- the approved payment route is used;
 - tax/payroll processing is confirmed;
 - privacy wording is approved;
 - labour-hire agency wording is approved, if contractor personnel are mentioned;
@@ -238,7 +238,7 @@ Before announcing awards, maintain a launch evidence file containing:
 
 - Executive approval for scheme creation.
 - Budget approval.
-- written Finance/Payroll position on company-side processing, withholding, reporting, payslip treatment, and accounting.
+- Finance/Payroll administration record for company-side processing, withholding, reporting, payslip treatment, and accounting, if required by Finance.
 - Payment process confirmation.
 - Privacy/consent wording approval.
 - Approved Bursary Charter.
@@ -263,4 +263,4 @@ The following official source anchors were checked for this action note:
 - Singapore Charity Portal, Fund-Raising for Foreign Charitable Purposes and advisory: permit, record-keeping, accounting, and foreign purpose considerations.
 - Thailand Revenue Department, Personal Income Tax: employment income and withholding tax anchor.
 
-The current working position is that Bursary payments are tax liable to the recipient. Finance/Payroll must still confirm company-side processing, withholding, reporting, payslip treatment, and accounting before launch.
+The current Phase 1 position is that Bursary payments are tax liable to the recipient. For EDrill employees, approved awards are paid through normal payroll and shown as payslip line items. Routine company-side processing, withholding, reporting, payslip treatment, and accounting remain Finance/Payroll administration.

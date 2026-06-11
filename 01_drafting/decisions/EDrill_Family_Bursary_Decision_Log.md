@@ -16,31 +16,34 @@ Use the following status labels consistently:
 
 ## 2. Approval Rules
 
-The following items require written confirmation before launch:
+The following Phase 1 decisions are now recorded as management-approved internal positions:
 
-- Funding entity and cost centre.
-- Payment route.
-- Finance/Payroll processing, withholding, reporting, payslip, and accounting treatment for recipient-taxable payments.
-- Privacy and consent wording.
-- labour-hire agency participation model, if included.
-- Selection method and committee appointment.
+- Funding entity: Energy Drilling Management Pte. Ltd. (EDMPL).
+- EDrill employee payment route: approved awards are paid through the normal payroll session into the recipient employee's bank account and shown as a payslip line item.
+- Labour-hire agency payment route: EDMPL pays the appointed labour-hire agency at the time of application for onward payment to its employee using the agency's existing payroll/payment process.
+- Privacy, consent, and discretionary wording: Chairman/Committee-approved internal compliance position; no external legal advice obtained.
+- Committee membership: confirmed for Phase 1.
+
+The following items remain required controls before review, payment, or publication activity:
+
+- Conflict-of-interest and confidentiality declarations before Committee review or decision activity.
 - Final internal communication wording.
 - Any public LinkedIn or external announcement.
 
-Drafting may proceed on provisional assumptions, but final documents must identify and resolve all provisional assumptions before issue.
+Drafting may proceed using the approved Phase 1 internal positions, but documents must not be moved to approved folders or treated as operational until the Launch Approval Checklist records all required Phase 1 approvals.
 
 ## 3. Executive Decisions
 
 | ID | Decision area | Current recommended position | Status | Accountable owner | Decision / final wording | Evidence/source | Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | EX-01 | Scheme name | The EDrill Family Bursary | Provisional | Executive Sponsor |  | Email chain / pending approval |  |
-| EX-02 | Scheme type | Internal company-funded discretionary education bursary | Provisional | Executive Sponsor / Legal |  | Setup brief / pending approval |  |
-| EX-03 | Legal/funding entity | Energy Drilling Management Pte. Ltd. using its Thailand office / Thailand registered presence, subject to Finance confirmation of exact contracting, tax, and accounting treatment | Provisional | Finance / Executive Sponsor | User confirmed intended entity; Finance still to validate registered details and cost treatment | User clarification 2026-06-11 | 2026-06-11 |
+| EX-02 | Scheme type | Internal company-funded discretionary education bursary | Approved | Executive Sponsor / Committee | Approved internally for Phase 1 operation, subject to the approved controls in this document | Management decision 2026-06-11 | 2026-06-11 |
+| EX-03 | Legal/funding entity | Energy Drilling Management Pte. Ltd. (EDMPL) | Approved | Finance / Executive Sponsor / Committee | EDMPL is the confirmed Phase 1 funding entity. Cost centre / GL code is a Finance administrative processing detail and is not a policy blocker. | Management decision 2026-06-11 | 2026-06-11 |
 | EX-04 | Launch date | 1 October 2026 | Provisional | Executive Sponsor |  | Email chain |  |
 | EX-05 | Launch geography | Thailand only | Provisional | Executive Sponsor |  | Email chain |  |
 | EX-06 | Myanmar extension | Excluded for launch; review later | Provisional | Executive Sponsor |  | Email chain |  |
 | EX-07 | Maximum awards | Up to 6 bursaries per award year | Provisional | Executive Sponsor |  | Email chain |  |
-| EX-08 | Public communication | LinkedIn and corporate website post effective 1 October 2026, after Legal/Compliance/Communications approval and no fundraising wording | Provisional | Executive Sponsor / Legal / HR / Communications | User requested LinkedIn and corporate website posting WEF 1 Oct; approval still required | User clarification 2026-06-11 | 2026-06-11 |
+| EX-08 | Public communication | LinkedIn and corporate website post effective 1 October 2026, after final Chairman/Committee/Communications pre-publication check and no fundraising wording | Provisional | Executive Sponsor / HR / Communications / Committee | Final communications approval remains a pre-publication check | Management decision 2026-06-11 | 2026-06-11 |
 
 ## 4. Eligibility Decisions
 
@@ -76,9 +79,9 @@ Drafting may proceed on provisional assumptions, but final documents must identi
 | PAY-02 | EDrill payment cadence | Quarterly, THB 30,000 per quarter | Provisional | Executive Sponsor / Finance |  | Email chain |  |
 | PAY-03 | labour-hire award value | Up to THB 8,000 per month | Provisional | Executive Sponsor / Finance / Legal |  | Email chain |  |
 | PAY-04 | Labour-hire award payment cadence | Quarterly, THB 24,000 per quarter based on THB 8,000 per month award value | Provisional | Finance / Executive Sponsor | User confirmed all awards paid quarterly | User clarification 2026-06-11 | 2026-06-11 |
-| PAY-05 | Payment route | EDrill employee awards paid directly to employee bank account; labour-hire crew awards paid to the relevant labour-hire agency for onward payment to its employee, with quarterly evidence and Finance/Legal controls | Provisional | Finance / HR / Legal | User confirmed route; DD note flags tax/payroll/labour-hire controls | User clarification 2026-06-11 | 2026-06-11 |
-| PAY-06 | Payroll treatment | Recipient-taxable treatment is recorded; company-side Finance/Payroll processing remains a launch gate. Finance/Payroll must still confirm processing, withholding, reporting, payslip, year-end certificate, accounting treatment, budget, cost centre, and payment route mechanics. | Open | Thailand Finance / Payroll | Recipient-taxable treatment confirmed for drafting; company-side processing remains a launch gate | User clarification 2026-06-11 | 2026-06-11 |
-| PAY-07 | Tax treatment | Payments are tax liable to the recipient, and the recipient is responsible for their own tax position; documents must not state or imply tax-free treatment | Provisional | Thailand Finance / Payroll | User confirmed all payments are tax liable and up to the recipient to deal with | User clarification 2026-06-11 | 2026-06-11 |
+| PAY-05 | Payment route | EDrill employee awards are paid into the recipient employee's bank account through the normal payroll session. Labour-hire awards are paid by EDMPL to the appointed labour-hire agency at the time of application for onward payment to its employee using the agency's existing payroll/payment process. | Approved | Finance / HR / Committee | Approved internally for Phase 1 operation, subject to the approved controls in this document | Management decision 2026-06-11 | 2026-06-11 |
+| PAY-06 | Payroll treatment | For EDrill employees, the bursary is added as a line item on the employee's payslip and paid through normal payroll. The bursary payment is tax liable to the recipient, and the recipient is responsible for their own tax position. | Approved | Thailand Finance / Payroll / Committee | Routine payroll administration remains with Finance/Payroll; cost centre / GL code is administrative, not a policy blocker | Management decision 2026-06-11 | 2026-06-11 |
+| PAY-07 | Tax treatment | Payments are tax liable to the recipient, and the recipient is responsible for their own tax position; documents must not state or imply tax-free or non-taxable treatment | Approved | Thailand Finance / Payroll / Committee | Approved internally for Phase 1 operation, subject to the approved controls in this document | Management decision 2026-06-11 | 2026-06-11 |
 | PAY-08 | Eligible expenses | Tuition, compulsory school fees, books, uniforms, required school materials | Provisional | HR / Finance |  | Decision questionnaire default |  |
 | PAY-09 | Excluded expenses | Transport, meals, devices, tutoring unless expressly approved | Provisional | HR / Finance |  | Decision questionnaire default |  |
 | PAY-10 | Costs below award value | Pay/reimburse evidenced eligible costs only, up to award limit | Provisional | Finance / HR |  | Decision questionnaire default |  |
@@ -92,11 +95,11 @@ Drafting may proceed on provisional assumptions, but final documents must identi
 | GOV-02 | Academic merit | Not used except minimum proof of enrolment/attendance | Provisional | HR / Executive Sponsor |  | Decision questionnaire default |  |
 | GOV-03 | Renewal | There is no automatic renewal and no automatic renewal priority. Each award year is a reset. Existing recipients may reapply and will be assessed under the same criteria as other applicants, subject to eligibility, available places, and annual approval. | Provisional | Executive Sponsor / HR | User confirmed annual reset, no automatic renewal, and no automatic priority | User clarification 2026-06-11 | 2026-06-11 |
 | GOV-04 | Renewal approach | Resolved: no automatic renewal priority. Prior award status should not create a preference or override need-based assessment. | Provisional | HR / Executive Sponsor | User confirmed yearly reset and no automatic priority | User clarification 2026-06-11 | 2026-06-11 |
-| GOV-05 | Application anonymity | Finance first confirms salary-cap eligibility; eligible applications are then anonymised before Committee review | Provisional | HR / Finance / Legal | User confirmed finance-first salary check and anonymised committee pack | User clarification 2026-06-11 | 2026-06-11 |
+| GOV-05 | Application anonymity | Finance/HR receives raw applications and Finance verifies salary eligibility internally; Committee receives anonymised applications where practicable | Approved | HR / Finance / Committee | Chairman/Committee-approved internal compliance position; no external legal advice obtained | Management decision 2026-06-11 | 2026-06-11 |
 | GOV-06 | Appeal process | Rejected applicants may appeal to the Chairman of the Committee for review | Provisional | HR / Legal / Committee Chairman | User confirmed appeal route to Chairman | User clarification 2026-06-11 | 2026-06-11 |
-| GOV-07 | Committee membership | Alex Maroske - Chairman; Jacquline Ho - Senior Finance Manager, Singapore; Malee Pasutharnchart - Office Manager / Finance, Thailand; Luke Byrne - Director of Operations, Thailand; Sittikorn Intahkaew - Regional QHSSE Manager | Provisional | Executive Sponsor / HR | User supplied committee list | User clarification 2026-06-11 | 2026-06-11 |
-| GOV-08 | Committee appointment | Named committee to be formally appointed and conflict declarations completed | Open | Executive Sponsor / HR | Pending written appointment/approval record | User clarification 2026-06-11 | 2026-06-11 |
-| GOV-09 | Conflict of interest process | Required for committee members and administrators | Provisional | HR / Legal |  | Roadmap / compliance note |  |
+| GOV-07 | Committee membership | Alex Maroske - Chairman; Jacquline Ho - Senior Finance Manager, Singapore; Malee Pasutharnchart - Office Manager / Finance, Thailand; Luke Byrne - Director of Operations, Thailand; Sittikorn Intahkaew - Regional QHSSE Manager | Approved | Executive Sponsor / HR / Committee | Phase 1 Bursary Committee membership confirmed | Management decision 2026-06-11 | 2026-06-11 |
+| GOV-08 | Committee appointment | Phase 1 Committee appointed as listed in GOV-07. Conflict-of-interest and confidentiality declarations are still required before review/decision activity. | Approved | Executive Sponsor / HR / Committee | Committee no longer treated as unappointed or provisional for membership | Management decision 2026-06-11 | 2026-06-11 |
+| GOV-09 | Conflict of interest and confidentiality process | Required for committee members and administrators before review/decision activity | Approved control | HR / Committee | Control remains required even though Committee membership is confirmed | Management decision 2026-06-11 | 2026-06-11 |
 | GOV-10 | Annual review | Required after each award cycle | Provisional | HR / Executive Sponsor / Finance |  | Setup brief / roadmap |  |
 | GOV-11 | Employment or assignment cessation during award year | If an EDrill employee or labour-hire agency employee leaves or ceases assignment during the award year, continuation, suspension, or cessation of the award is decided case by case by the Committee, considering the circumstances of cessation and the needs of the family | Provisional | Committee / HR / Finance / Legal | User confirmed Committee discretion based on circumstances and family need; preserves future independence pathway | User clarification 2026-06-11 | 2026-06-11 |
 
@@ -107,39 +110,39 @@ Drafting may proceed on provisional assumptions, but final documents must identi
 | KO-01 | Labour-hire inclusion | Include eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs | Provisional | Executive Sponsor / Legal / Operations | User clarified agencies may change, so agency-neutral language is needed | User clarification 2026-06-11 | 2026-06-11 |
 | KO-02 | Continuous service requirement | Must have worked continuously for EDrill since 1 January 2025 | Provisional | Operations / labour-hire agency |  | Email chain |  |
 | KO-03 | Employment verification | Labour-hire agency verifies employment; EDrill Operations verifies rig assignment and continuity | Provisional | Operations / Labour-hire agency | User confirmed labour-hire crew hold agency contracts | User clarification 2026-06-11 | 2026-06-11 |
-| KO-04 | Labour-hire agency acknowledgement | Written acknowledgement recommended before launch for each participating agency | Provisional | Legal / Operations | Agency may change over time; acknowledgement should be agency-neutral | User clarification 2026-06-11 | 2026-06-11 |
-| KO-05 | Labour-hire wording | "Eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs" or equivalent | Provisional | Legal / HR | User requested wording that accommodates agency changes and avoids naming Kobchok specifically | User clarification 2026-06-11 | 2026-06-11 |
+| KO-04 | Labour-hire agency acknowledgement | Agency acknowledgement is required, but it should be practical: the agency uses its existing payroll/payment process and holds employee receipt or acknowledgement in the same practical way it handles salary/payment acknowledgement. | Approved | Operations / Finance / Committee / agency | EDrill may request confirmation that onward payment was made; no burdensome new process unless Committee or Finance later requires it | Management decision 2026-06-11 | 2026-06-11 |
+| KO-05 | Labour-hire wording | "Eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs" or equivalent | Approved | Committee / HR | Agency-neutral wording approved; do not use Kobchok as a fixed eligibility category | Management decision 2026-06-11 | 2026-06-11 |
 | KO-06 | Wording to avoid | Avoid "our employees" when referring to labour-hire agency staff | Provisional | Legal / HR / Communications |  | Compliance action note |  |
-| KO-07 | Payment route | Payment made to the relevant labour-hire agency for onward payment to its employee, subject to Finance/Legal controls and agency acknowledgement | Provisional | Finance / Legal | User confirmed route | User clarification 2026-06-11 | 2026-06-11 |
+| KO-07 | Payment route | EDMPL pays bursary funds to the appointed labour-hire agency at the time of application. The agency pays onward to its employee using its existing payroll/payment process, similar to salary handling. | Approved | Finance / Operations / Committee / agency | EDrill may request confirmation that onward payment was made | Management decision 2026-06-11 | 2026-06-11 |
 
 ## 9. Privacy, Records, and Communications Decisions
 
 | ID | Decision area | Current recommended position | Status | Accountable owner | Decision / final wording | Evidence/source | Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| PR-01 | Privacy wording | To be approved before forms are issued | Open | Legal / Compliance / HR |  |  |  |
-| PR-02 | Data collected | Only necessary employee, child, school, relationship, salary, and evidence data | Provisional | HR / Legal |  | Compliance action note |  |
-| PR-03 | School verification | Allowed only if consent/legal basis confirmed | Open | Legal / HR |  |  |  |
-| PR-04 | Cross-border data transfer | To be confirmed if Singapore management reviews applicant data | Open | Legal / Compliance |  |  |  |
-| PR-05 | Retention period | To be confirmed by Legal/Compliance | Open | Legal / Compliance / HR |  |  |  |
+| PR-01 | Privacy wording | Consent, confidentiality, data minimisation, anonymised committee review where practicable, and restricted access controls approved internally for Phase 1 | Approved | Chairman / Committee / HR | Chairman/Committee-approved internal compliance position; no external legal advice obtained. | Management decision 2026-06-11 | 2026-06-11 |
+| PR-02 | Data collected | Only necessary employee, child, school, relationship, salary, and evidence data | Approved | HR / Committee | Data minimisation control approved internally for Phase 1 | Management decision 2026-06-11 | 2026-06-11 |
+| PR-03 | School verification | Allowed where applicant consent is obtained and verification is necessary for administration | Approved | HR / Committee | Keep verification practical and minimised | Management decision 2026-06-11 | 2026-06-11 |
+| PR-04 | Cross-border data transfer | Singapore Committee members may review minimised/anonymised application packs where practicable; raw records remain restricted to authorised HR/Finance unless needed | Approved | Chairman / Committee / HR | Chairman/Committee-approved internal compliance position; no external legal advice obtained. | Management decision 2026-06-11 | 2026-06-11 |
+| PR-05 | Retention period | Retain Bursary records for the period required for HR, payroll, audit, tax, and administration, using restricted access; Committee may set or update the retention period administratively | Approved control | Chairman / Committee / HR / Finance | Approved internally for Phase 1 operation, subject to the approved controls in this document. | Management decision 2026-06-11 | 2026-06-11 |
 | COM-01 | Internal launch message | Draft only after charter/SOP assumptions are settled | Provisional | HR / Executive Sponsor |  | Roadmap |  |
-| COM-02 | LinkedIn and corporate website post | Draft allowed; post effective 1 October only after legal/comms approval and launch gates relevant to public claims are closed | Provisional | Executive Sponsor / Legal / Communications | User requested LinkedIn and corporate website post WEF 1 Oct | User clarification 2026-06-11 | 2026-06-11 |
-| COM-03 | Beneficiary names/photos | Do not publish without specific written consent | Provisional | Legal / Communications |  | Compliance action note |  |
+| COM-02 | LinkedIn and corporate website post | Draft allowed; post effective 1 October only after final Chairman/Committee/Communications pre-publication check | Provisional | Executive Sponsor / Committee / Communications | Communications must contain no fundraising language, must not describe the Bursary as a charity, society, foundation, or ROS body, must not claim tax-free or non-taxable treatment, must not imply guaranteed entitlement, and must not identify children/beneficiaries without specific consent. | Management decision 2026-06-11 | 2026-06-11 |
+| COM-03 | Beneficiary names/photos | Do not publish without specific written consent | Approved control | Committee / Communications | Applies to child names, photos, school names, personal stories, and family circumstances | Management decision 2026-06-11 | 2026-06-11 |
 
 ## 10. Launch Gate Closure Tracker
 
 | Gate | Status | Owner | Evidence required | Closure date |
 | --- | --- | --- | --- | --- |
-| Funding entity confirmed | Open | Finance / Executive Sponsor | Written confirmation |  |
-| Budget and cost centre approved | Open | Finance | Budget approval |  |
-| Recipient-taxable treatment recorded | Provisional | Thailand Finance / Payroll | User confirmation recorded; Finance/Payroll still to confirm processing, withholding, reporting, payslip, year-end certificate, and accounting mechanics |  |
-| Payment route approved | Open | Finance / HR / Legal | Approved process for direct employee bank payments and labour-hire agency onward payments |  |
-| Privacy and consent wording approved | Open | Legal / HR / Compliance | Approved wording |  |
-| Thai labour/discretionary wording approved | Open | Legal / HR | Approved wording |  |
-| Labour-hire agency model approved | Open | Legal / Operations / Finance / agency | Written acknowledgement/process |  |
+| Funding entity confirmed | Closed | Finance / Executive Sponsor / Committee | EDMPL confirmed as Phase 1 funding entity | 2026-06-11 |
+| Budget and cost centre / GL code | Reclassified | Finance | Administrative Finance processing detail, not a policy blocker | 2026-06-11 |
+| Recipient-taxable and payroll treatment recorded | Closed | Thailand Finance / Payroll / Committee | EDrill employee awards paid through normal payroll, added as payslip line item, tax liable to recipient | 2026-06-11 |
+| Payment route approved | Closed | Finance / HR / Committee | EDrill employee payroll route and labour-hire agency onward-payment route approved | 2026-06-11 |
+| Privacy and consent wording approved | Closed for Phase 1 internal operation | Chairman / Committee / HR | Chairman/Committee-approved internal compliance position; no external legal advice obtained. | 2026-06-11 |
+| Thai labour/discretionary wording approved | Closed for Phase 1 internal operation | Chairman / Committee / HR | Approved internally for Phase 1 operation, subject to the approved controls in this document. | 2026-06-11 |
+| Labour-hire agency model approved | Closed for Phase 1 internal operation | Operations / Finance / Committee / agency | Agency-neutral route approved; agency acknowledgement/participation coordination remains an execution step for the appointed agency | 2026-06-11 |
 | Selection method approved | Provisional | HR / Executive Sponsor | Need-weighted committee scoring recorded; final approval/sign-off still required |  |
-| Committee appointed | Open | Executive Sponsor / HR | Appointment record |  |
-| Internal communication approved | Open | Executive Sponsor / HR / Legal | Approved message |  |
-| LinkedIn/corporate website communication approved | Open | Executive Sponsor / Legal / Communications | Approved post |  |
+| Committee appointed | Closed | Executive Sponsor / HR / Committee | Phase 1 Committee confirmed; conflict/confidentiality declarations still required before review/decision activity | 2026-06-11 |
+| Internal communication approved | Open | Executive Sponsor / HR / Committee / Communications | Final pre-publication check required |  |
+| LinkedIn/corporate website communication approved | Open | Executive Sponsor / Committee / Communications | Final pre-publication check required |  |
 
 ## 11. Assumption Register For Drafting
 
@@ -147,10 +150,10 @@ Use this section when drafting formal documents before all decisions are closed.
 
 | Assumption ID | Assumption | Documents affected | Risk if wrong | Owner to confirm | Status |
 | --- | --- | --- | --- | --- | --- |
-| A-01 | Phase 1 is an internal company-funded discretionary scheme | Charter, SOP, communications | Wrong legal structure and wrong wording | Legal / Executive Sponsor | Provisional |
-| A-02 | EDrill employee awards are paid directly to employee bank accounts; labour-hire crew awards are paid through the relevant agency for onward payment | SOP, award letter, forms | Tax/payroll, audit, and labour-hire controls may require rewrite | Finance / Legal | Provisional |
-| A-03 | Recipient-taxable treatment is recorded; company-side Finance/Payroll processing remains a launch gate, including withholding, reporting, payslip, year-end certificate, accounting treatment, budget, cost centre, and payment route mechanics | SOP, award letter, payroll instructions | Incorrect company-side processing or reporting | Finance / Payroll | Provisional / processing open |
-| A-04 | Labour-hire agency employees can be included with careful wording and acknowledgement | Labour-hire appendix, award letter, communications | Deemed-employer, fair welfare, co-employment, or contractor ambiguity | Legal / Operations | Provisional |
+| A-01 | Phase 1 is an internal company-funded discretionary scheme | Charter, SOP, communications | Wrong legal structure and wrong wording | Chairman / Committee / Executive Sponsor | Approved internally |
+| A-02 | EDrill employee awards are paid through normal payroll; labour-hire crew awards are paid through the appointed agency for onward payment | SOP, award letter, forms | Payment process mismatch | Finance / Committee | Approved internally |
+| A-03 | Bursary payments are tax liable to the recipient; EDrill employee awards are payslip line items through normal payroll; recipient remains responsible for their own tax position | SOP, award letter, payroll instructions | Incorrect payroll communication | Finance / Payroll | Approved internally |
+| A-04 | Labour-hire agency employees can be included with careful wording and practical agency acknowledgement/payment controls | Labour-hire appendix, award letter, communications | Deemed-employer, fair welfare, co-employment, or contractor ambiguity | Committee / Operations / Finance | Approved internally |
 | A-05 | No public fundraising at Phase 1 | LinkedIn, internal communications | Regulatory exposure in Singapore | Legal / Executive Sponsor | Provisional |
 | A-06 | There is no automatic renewal and no automatic renewal priority; each award year is a reset | Charter, SOP, award letter | Entitlement expectation | HR / Legal | Provisional |
 
@@ -161,3 +164,4 @@ Use this section when drafting formal documents before all decisions are closed.
 | 2026-06-11 | Initial decision log created | ChatGPT | Based on setup brief, decision questionnaire, compliance action note, and roadmap |
 | 2026-06-11 | User clarification incorporated | ChatGPT | Updated entity, payment route, quarterly cadence, minimum service, age rule, renewal, committee, anonymisation, labour-hire language, and public posting posture |
 | 2026-06-11 | Further user clarification incorporated | ChatGPT | Updated recipient-taxable treatment, no Marcus question, mid-year cessation discretion, agency-neutral wording, multiple children per family, required evidence, appeal route, and Thailand-only inaugural-year posture |
+| 2026-06-11 | Phase 1 blocker decisions incorporated | ChatGPT | Closed or reclassified committee appointment, EDMPL funding entity, payroll/payment mechanics, internal compliance approval, and labour-hire agency payment model; final communications approval remains open |

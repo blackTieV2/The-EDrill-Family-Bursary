@@ -71,7 +71,7 @@ Important: the final scoring method must be approved before use.
 | Recommend award with conditions |  |
 | Do not recommend award |  |
 | Defer pending further evidence |  |
-| Refer to Legal/Compliance |  |
+| Refer to Chairman / Committee internal compliance |  |
 | Refer to Finance/Payroll |  |
 | Refer to Operations / labour-hire agency |  |
 
@@ -102,4 +102,3 @@ Record concise reasons for the decision or recommendation.
 | Date submitted |  |
 | Final decision | Approved / declined / deferred |
 | Final decision date |  |
-

@@ -18,100 +18,100 @@ The Bursary is not launch-ready until every required item in this checklist is A
 
 | Item | Required evidence | Owner | Status | Notes |
 | --- | --- | --- | --- | --- |
-| Scheme name approved | Written approval | Executive Sponsor | Open |  |
-| Phase 1 Thailand-only scope approved | Written approval | Executive Sponsor | Open |  |
-| Launch date approved | Written approval | Executive Sponsor | Open |  |
-| Maximum awards approved | Written approval | Executive Sponsor / Finance | Open |  |
-| EDrill award value approved | Written approval | Executive Sponsor / Finance | Open |  |
-| Labour-hire agency inclusion approved or excluded | Written decision | Executive Sponsor / Legal / Operations | Open | Agency-neutral; applies only to the appointed labour-hire agency model if approved |
-| Executive authority for scheme confirmed | Approval note | Executive Sponsor | Open |  |
+| Scheme name approved | Decision Log | Executive Sponsor / Committee | Approved | The EDrill Family Bursary |
+| Phase 1 Thailand-only scope approved | Decision Log | Executive Sponsor / Committee | Approved | Future expansion remains a later review only |
+| Launch date approved | Decision Log | Executive Sponsor / Committee | Approved | Planned 1 October 2026 |
+| Maximum awards approved | Decision Log | Executive Sponsor / Finance / Committee | Approved | Up to 6 bursaries per award year |
+| EDrill award value approved | Decision Log | Executive Sponsor / Finance / Committee | Approved | Up to THB 120,000 per awardee per Award Year |
+| Labour-hire agency inclusion approved or excluded | Decision Log | Executive Sponsor / Operations / Committee | Approved | Agency-neutral; applies only to eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs |
+| Executive authority for scheme confirmed | Decision Log | Executive Sponsor / Committee | Approved | Approved internally for Phase 1 operation, subject to the approved controls in this document |
 
 ## 4. Finance / Payroll / Tax Approval
 
 | Item | Required evidence | Owner | Status | Notes |
 | --- | --- | --- | --- | --- |
-| Funding entity confirmed | Written Finance confirmation | Finance | Open |  |
-| Cost centre confirmed | Cost centre record | Finance | Open |  |
-| Annual budget approved | Budget approval | Finance / Executive Sponsor | Open |  |
-| Finance / Payroll Position Template completed | Completed template | Finance / Payroll | Open | Covers tax, payroll, withholding, reporting, payment route, evidence, and accounting |
-| Payment route approved | Completed Finance / Payroll Position Template | Finance / Payroll / Legal | Open | Direct employee bank payment and labour-hire agency onward-payment route |
-| Direct employee bank payment process approved, if used | Finance / Payroll process note | Finance / Payroll | Open |  |
-| Labour-hire agency onward-payment process approved, if used | Finance / Legal process note | Finance / Legal | Open |  |
-| Labour-hire agency acknowledgement template approved, if used | Legal-approved template | Finance / Legal / Operations | Open |  |
+| Funding entity confirmed | Decision Log | Finance / Committee | Approved | Energy Drilling Management Pte. Ltd. (EDMPL) |
+| Cost centre / GL code confirmed | Finance processing record | Finance | Reclassified | Finance administrative processing detail; not a policy blocker |
+| Annual budget approved | Decision Log / Finance record | Finance / Executive Sponsor / Committee | Approved | Administered as Phase 1 company-funded bursary |
+| Finance / Payroll Position Template completed | Decision Log / payroll process | Finance / Payroll | Approved | EDrill employee awards paid through normal payroll and shown as a payslip line item |
+| Payment route approved | Decision Log | Finance / Payroll / Committee | Approved | EDrill employee payroll route and labour-hire agency onward-payment route |
+| Direct employee bank payment process approved, if used | Decision Log / payroll process | Finance / Payroll | Approved | Paid into recipient employee bank account through normal payroll session |
+| Labour-hire agency onward-payment process approved, if used | Decision Log / agency acknowledgement | Finance / Operations / Committee / agency | Approved | EDMPL pays appointed agency; agency pays onward using existing payroll/payment process |
+| Labour-hire agency acknowledgement template approved, if used | Agency acknowledgement | Finance / Operations / Committee | Approved for Phase 1 internal operation | Practical acknowledgement only; no burdensome new process unless Committee or Finance later requires it |
 | Direct school payment or reimbursement process approved, if used as fallback | Finance process note | Finance | Open |  |
 | Cash/advance process approved, if used | Finance/Payroll approval | Finance / Payroll | Open |  |
-| Recipient-taxable treatment recorded | Decision Log / Finance note | Finance / Payroll / Tax adviser | Provisional | User confirmed payments are tax liable to recipient |
-| Withholding/reporting/payslip/accounting process confirmed | Written payroll position | Payroll / Finance | Open | Recipient responsibility does not remove need for company-side process confirmation |
-| Labour-hire award accounting confirmed, if applicable | Written Finance position | Finance | Open |  |
+| Recipient-taxable treatment recorded | Decision Log / Finance note | Finance / Payroll / Committee | Approved | Payments are tax liable to the recipient; recipient is responsible for their own tax position |
+| Withholding/reporting/payslip/accounting process confirmed | Decision Log / payroll process | Payroll / Finance | Approved | EDrill employee awards are normal payroll-session payslip line items; routine payroll administration remains with Finance/Payroll |
+| Labour-hire award accounting confirmed, if applicable | Finance processing record | Finance | Reclassified | Routine Finance administration, not a policy blocker |
 | Overpayment/recovery process approved | Finance/Legal note | Finance / Legal | Open |  |
 
 ## 5. Legal / Compliance / Privacy Approval
 
 | Item | Required evidence | Owner | Status | Notes |
 | --- | --- | --- | --- | --- |
-| Discretionary/non-contractual wording approved | Legal approval | Legal / Compliance | Open |  |
-| Privacy notice approved | Legal approval | Legal / Compliance | Open |  |
-| Applicant consent wording approved | Legal approval | Legal / Compliance | Open |  |
-| Child data handling approved | Legal approval | Legal / Compliance | Open |  |
-| School verification process approved | Legal approval | Legal / Compliance | Open |  |
-| Cross-border data transfer position confirmed | Legal approval | Legal / Compliance | Open |  |
-| Records retention period approved | Legal/records approval | Legal / Compliance | Open |  |
-| Publicity consent rule approved | Legal/communications approval | Legal / Compliance | Open |  |
-| Labour-hire agency relationship wording approved, if applicable | Legal approval | Legal / Compliance | Open |  |
-| Singapore ROS/fundraising boundary confirmed | Legal/Compliance note | Legal / Compliance | Open |  |
+| Discretionary/non-contractual wording approved | Internal compliance decision | Chairman / Committee | Approved for Phase 1 internal operation | Chairman/Committee-approved internal compliance position; no external legal advice obtained. |
+| Privacy notice approved | Internal compliance decision | Chairman / Committee / HR | Approved for Phase 1 internal operation | Uses consent, confidentiality, data minimisation, anonymised review where practicable, and restricted access controls |
+| Applicant consent wording approved | Internal compliance decision | Chairman / Committee / HR | Approved for Phase 1 internal operation | Applicant consent is required |
+| Child data handling approved | Internal compliance decision | Chairman / Committee / HR | Approved for Phase 1 internal operation | Child data is confidential and access-restricted |
+| School verification process approved | Internal compliance decision | Chairman / Committee / HR | Approved for Phase 1 internal operation | Verification only where consent is obtained and needed |
+| Cross-border data transfer position confirmed | Internal compliance decision | Chairman / Committee / HR | Approved for Phase 1 internal operation | Committee receives anonymised/minimised packs where practicable |
+| Records retention period approved | Internal compliance decision | Chairman / Committee / HR / Finance | Approved for Phase 1 internal operation | Retain for HR, payroll, audit, tax, and administration needs under restricted access |
+| Publicity consent rule approved | Internal compliance decision | Chairman / Committee / Communications | Approved control | No child names/photos/stories without specific written consent |
+| Labour-hire agency relationship wording approved, if applicable | Internal compliance decision | Chairman / Committee / Operations | Approved for Phase 1 internal operation | Do not describe labour-hire agency employees as EDrill employees |
+| Singapore ROS/fundraising boundary confirmed | Internal compliance decision | Chairman / Committee / Communications | Approved control | Phase 1 has no fundraising and is not a charity, society, foundation, or ROS body |
 
 ## 6. HR / Operations Approval
 
 | Item | Required evidence | Owner | Status | Notes |
 | --- | --- | --- | --- | --- |
 | Bangkok HR administrator confirmed | Appointment / email | HR | Open |  |
-| Committee members appointed | Appointment record | Executive Sponsor / HR | Open |  |
-| Committee conflict declarations prepared | Template approved | HR / Legal | Open |  |
+| Committee members appointed | Decision Log | Executive Sponsor / HR / Committee | Approved | Alex Maroske, Jacquline Ho, Malee Pasutharnchart, Luke Byrne, and Sittikorn Intahkaew confirmed |
+| Committee conflict declarations prepared | Existing template | HR / Committee | Approved control | Declarations still required before review/decision activity |
 | Application window confirmed | HR launch plan | HR | Open |  |
 | Secure submission route confirmed | HR / IT note | HR / IT | Open |  |
 | Launch Workplan and RACI approved | Approved workplan | Executive Sponsor / HR | Open |  |
-| Launch evidence file established | Evidence file register + secure location | HR / Finance / Legal | Open | Access must be restricted |
+| Launch evidence file established | Evidence file register + secure location | HR / Finance / Committee | Open | Access must be restricted |
 | Eligibility rules approved | HR approval | HR / Executive Sponsor | Open |  |
 | Selection/scoring method approved | HR / Sponsor approval | HR / Executive Sponsor | Open |  |
 | Operations verification process approved | Operations note | Operations | Open |  |
 | Labour-hire agency verification and onward-payment process approved, if applicable | Operations/agency note | Operations / agency | Open |  |
-| Labour-hire agency acknowledgement completed, if applicable | Signed acknowledgement | Operations / agency / Legal | Open | Required before including that agency's employees |
+| Labour-hire agency acknowledgement completed, if applicable | Agency acknowledgement | Operations / agency / Committee | Execution step | Required before including that agency's employees; should remain practical and use existing agency payment acknowledgement practices |
 
 ## 7. Document Approval
 
 | Document | Owner | Status | Notes |
 | --- | --- | --- | --- |
-| Bursary Charter | Executive Sponsor / Legal / HR | Open |  |
-| Procedure / SOP | HR / Finance / Legal | Open |  |
-| Eligibility and Selection Rules | HR / Sponsor / Legal | Open |  |
-| Payment and Evidence Rules | Finance / Payroll / Legal | Open |  |
-| Privacy and Records Appendix | Legal / Compliance / HR | Open |  |
-| Labour-Hire Agency Participation Appendix, if applicable | Legal / Operations / Finance | Open |  |
-| Application Form | HR / Legal | Open |  |
-| Declaration and Consent | Legal / HR | Open |  |
+| Bursary Charter | Executive Sponsor / Committee / HR | Open | Draft not moved to approved folder |
+| Procedure / SOP | HR / Finance / Committee | Open | Draft not moved to approved folder |
+| Eligibility and Selection Rules | HR / Sponsor / Committee | Open | Draft not moved to approved folder |
+| Payment and Evidence Rules | Finance / Payroll / Committee | Open | Draft not moved to approved folder |
+| Privacy and Records Appendix | Chairman / Committee / HR | Open | Draft not moved to approved folder |
+| Labour-Hire Agency Participation Appendix, if applicable | Operations / Finance / Committee | Open | Draft not moved to approved folder |
+| Application Form | HR / Committee | Open | Draft not moved to approved folder |
+| Declaration and Consent | HR / Committee | Open | Draft not moved to approved folder |
 | Evidence Checklist | HR / Finance | Open |  |
-| Committee Review Sheet | HR / Legal | Open |  |
-| Award Letter | Legal / HR / Finance | Open |  |
-| Unsuccessful Letter | HR / Legal | Open |  |
+| Committee Review Sheet | HR / Committee | Open |  |
+| Award Letter | HR / Finance / Committee | Open |  |
+| Unsuccessful Letter | HR / Committee | Open |  |
 | Renewal Form | HR / Finance | Open |  |
-| Appeal / Exception Form | HR / Legal | Open |  |
+| Appeal / Exception Form | HR / Committee | Open |  |
 | Annual Scheme Report Template | HR / Finance / Sponsor | Open |  |
-| Finance / Payroll Position Template | Finance / Payroll / Legal | Open |  |
-| Labour-Hire Agency Acknowledgement Template | Legal / Operations / Finance | Open |  |
-| Launch Workplan and RACI | Executive Sponsor / HR / Finance / Legal / Operations | Open |  |
-| Launch Evidence File Register | HR / Finance / Legal | Open |  |
+| Finance / Payroll Position Template | Finance / Payroll / Committee | Reclassified | Use as payroll admin record if helpful, not a policy blocker |
+| Labour-Hire Agency Acknowledgement Template | Operations / Finance / Committee | Open | Practical agency acknowledgement only |
+| Launch Workplan and RACI | Executive Sponsor / HR / Finance / Committee / Operations | Open |  |
+| Launch Evidence File Register | HR / Finance / Committee | Open |  |
 | Approval Meeting Agenda / minutes | Executive Sponsor / HR | Open |  |
 
 ## 8. Communications Approval
 
 | Communication | Required approval | Status | Notes |
 | --- | --- | --- | --- |
-| Internal launch message | Executive Sponsor / HR / Legal | Open |  |
-| Manager / rig communication note | HR / Operations / Legal | Open |  |
-| Employee FAQ | HR / Finance / Legal | Open |  |
-| LinkedIn and corporate website post | Executive Sponsor / Legal / Communications | Open |  |
-| Corporate website post draft | Executive Sponsor / Legal / Communications | Open |  |
-| Any beneficiary names/photos/stories | Specific written consent + Legal/Comms | Open |  |
+| Internal launch message | Executive Sponsor / HR / Committee / Communications | Open | Final pre-publication check required |
+| Manager / rig communication note | HR / Operations / Committee / Communications | Open | Final pre-publication check required |
+| Employee FAQ | HR / Finance / Committee / Communications | Open | Final pre-publication check required |
+| LinkedIn and corporate website post | Executive Sponsor / Committee / Communications | Open | Must contain no fundraising language, no charity/society/foundation/ROS claim, no tax-free/non-taxable claim, no guaranteed entitlement, and no child/beneficiary identification without specific consent |
+| Corporate website post draft | Executive Sponsor / Committee / Communications | Open | Same pre-publication controls apply |
+| Any beneficiary names/photos/stories | Specific written consent + Committee/Comms check | Open |  |
 
 ## 9. Launch Readiness Decision
 

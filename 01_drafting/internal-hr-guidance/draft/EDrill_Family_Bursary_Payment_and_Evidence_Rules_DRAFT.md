@@ -4,7 +4,7 @@ Status: Draft for internal review only
 Version: 0.1  
 Effective date: To be confirmed  
 Owner: To be confirmed  
-Important: this draft is based on provisional assumptions recorded in the decision log. It must not be issued or relied on operationally until Finance, Payroll, Legal/Compliance, and the Executive Sponsor have approved the open launch gates.
+Important: this draft reflects confirmed Phase 1 management decisions recorded in the decision log. It remains in draft form and must not be treated as operational until the Launch Approval Checklist records all required Phase 1 approvals and final communications checks.
 
 ## 1. Purpose
 
@@ -12,16 +12,16 @@ These Rules define the provisional award values, payment controls, eligible expe
 
 These Rules support the Bursary Charter, Procedure / SOP, and Eligibility and Selection Rules.
 
-## 2. Finance Approval Required
+## 2. Finance Administration
 
-No payment may be made until Finance/Payroll confirms:
+Finance/Payroll administers the approved Phase 1 payment routes:
 
-- funding entity;
-- cost centre;
-- annual budget;
-- payment route;
-- recipient-taxable treatment is recorded;
-- company-side Finance/Payroll processing mechanics, including withholding, reporting, payslip, year-end certificate, accounting treatment, budget, cost centre, and payment route mechanics;
+- EDMPL is the funding entity;
+- cost centre / GL code is a Finance administrative processing detail and is not a policy blocker;
+- EDrill employee awards are paid through the normal payroll session into the recipient employee's bank account;
+- EDrill employee awards are added as a line item on the employee's payslip;
+- bursary payments are tax liable to the recipient;
+- the recipient is responsible for their own tax position;
 - audit evidence requirements;
 - treatment of labour-hire agency awards and onward payments, if applicable.
 
@@ -32,7 +32,7 @@ No payment may be made until Finance/Payroll confirms:
 | Eligible EDrill employee child | THB 120,000 per Award Year | Quarterly, THB 30,000 per quarter |
 | Eligible labour-hire worker child | THB 8,000 per month | Quarterly, THB 24,000 per quarter |
 
-These values remain provisional until approved by the Executive Sponsor and Finance.
+These values are the approved Phase 1 working values unless the Committee and Finance approve a later change.
 
 ## 4. Maximum Number of Awards
 
@@ -68,14 +68,14 @@ Excluded expenses may be approved only by recorded exception.
 
 ## 6. Approved Working Payment Route
 
-The approved working route, subject to Finance/Payroll/Legal sign-off, is:
+The approved Phase 1 route is:
 
-1. EDrill employee awards are paid quarterly directly to the employee's nominated bank account.
-2. Labour-hire crew awards are paid quarterly to the relevant labour-hire agency for onward payment to its employee.
+1. EDrill employee awards are paid quarterly into the recipient employee's bank account through the normal payroll session and added as a payslip line item.
+2. Labour-hire crew awards are paid by EDMPL to the appointed labour-hire agency at the time of application for onward payment to its employee using the agency's existing payroll/payment process.
 
-The final payment route must be approved before award letters are issued. Because direct bank-account payments can look like additional remuneration unless controlled properly, Finance/Payroll should confirm whether payments are processed through payroll, accounts payable, or another controlled route and whether withholding/reporting is required.
+Because EDrill employee awards are processed through payroll, Finance/Payroll should handle routine payroll administration in the normal way.
 
-Direct school payment or reimbursement may be used only if Finance/Payroll/Legal later approve that route as an exception or revised process.
+Direct school payment or reimbursement may be used only if the Committee or Finance later approve that route as an exception or revised process.
 
 ## 7. Direct Employee Bank Payment
 
@@ -84,8 +84,8 @@ Direct employee bank payment may be used for EDrill employees where:
 - the applicant has passed the salary-cap and eligibility checks;
 - the child and school evidence are complete;
 - the payment is approved for the relevant quarter;
-- bank details are verified under Finance controls;
-- recipient-taxable treatment is recorded and company-side Finance/Payroll processing mechanics are approved;
+- bank details are verified under Finance/Payroll controls;
+- the payment is processed through the normal payroll session as a payslip line item;
 - the award letter states any withholding, reporting, evidence, and recovery conditions.
 
 Payment should not exceed THB 30,000 per quarter for an EDrill employee award unless an approved exception applies.
@@ -96,10 +96,11 @@ Payment through a labour-hire agency may be used for eligible labour-hire crew w
 
 - the relevant agency verifies employment status;
 - EDrill Operations verifies assignment and continuity;
-- the agency acknowledges its onward-payment obligation;
+- the agency acknowledges its onward-payment obligation using a practical process;
 - Finance approves the payment route and supporting evidence;
-- Legal/Compliance approves wording and relationship controls;
-- the agency confirms onward payment to the employee, if required by Finance.
+- Chairman/Committee internal compliance controls approve wording and relationship controls;
+- the agency is responsible for obtaining or holding employee receipt or acknowledgement of funds in the same practical way it handles salary/payment acknowledgement;
+- EDrill may request confirmation that onward payment was made.
 
 Payment should not exceed THB 24,000 per quarter for a labour-hire worker award unless an approved exception applies.
 
@@ -125,7 +126,7 @@ Reimbursement requires:
 - valid receipt or proof of payment;
 - confirmation that the expense is eligible;
 - applicant bank details verified according to Finance controls;
-- tax/payroll handling confirmed by Finance/Payroll.
+- tax/payroll handling administered by Finance/Payroll.
 
 Reimbursement should not exceed the approved award value or evidenced eligible costs.
 
@@ -184,7 +185,7 @@ Payment is subject to:
 - accepted award letter;
 - continued eligibility;
 - approved payment route;
-- tax/payroll treatment confirmed;
+- approved payroll or labour-hire agency payment route;
 - no unresolved compliance issue;
 - no duplicate education support for the same expense.
 
@@ -228,19 +229,23 @@ An overpayment may occur if:
 - receipts did not support the payment;
 - payment exceeded approved eligible costs.
 
-Recovery options should be reviewed by Finance, HR, and Legal/Compliance before action is taken.
+Recovery options should be reviewed by Finance, HR, and the Committee before action is taken.
 
 ## 18. Labour-Hire Agency Payment Controls
 
-Labour-hire agency payment arrangements must be approved separately.
+Labour-hire agency payment arrangements are approved for Phase 1 internal operation, subject to the practical controls below.
 
 Before any labour-hire-related payment:
 
 - labour-hire agency employment status must be verified;
 - EDrill Operations must verify assignment/continuity;
 - agency acknowledgement must be obtained if required;
-- Finance must confirm whether payment is made through the labour-hire agency or handled another way;
-- Legal/Compliance must confirm wording and relationship controls.
+- Finance pays EDMPL funds to the appointed labour-hire agency at the time of application;
+- the agency pays onward to its employee using its existing payroll/payment process, similar to salary handling;
+- the agency is responsible for obtaining or holding employee receipt or acknowledgement of funds in the same practical way it handles salary/payment acknowledgement;
+- EDrill may request confirmation that onward payment was made;
+- no burdensome new process should be created unless the Committee or Finance later requires it;
+- Chairman/Committee internal compliance controls confirm wording and relationship controls.
 
 ## 19. Records
 
@@ -258,7 +263,7 @@ Finance and HR should retain:
 - quarterly review records;
 - overpayment or recovery records, if any.
 
-Retention period must be confirmed by Legal/Compliance.
+Records should be retained for HR, payroll, audit, tax, and administration needs under restricted access. The Committee may set or update the retention period administratively.
 
 ## 18. Approval
 
@@ -268,4 +273,4 @@ Retention period must be confirmed by Legal/Compliance.
 | HR / Bangkok Administrator |  |  |  |
 | Finance |  |  |  |
 | Payroll / Tax |  |  |  |
-| Legal / Compliance |  |  |  |
+| Chairman / Committee internal compliance |  |  |  |

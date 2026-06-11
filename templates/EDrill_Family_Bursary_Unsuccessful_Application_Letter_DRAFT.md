@@ -2,7 +2,7 @@
 
 Status: Draft for internal review only  
 Version: 0.1  
-Important: this template should be reviewed by HR and Legal/Compliance before use.
+Important: this template should be reviewed by HR and the Committee before use.
 
 ## Template
 

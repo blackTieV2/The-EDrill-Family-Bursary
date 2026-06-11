@@ -36,15 +36,15 @@ Provisional eligible costs include tuition, compulsory school fees, textbooks, u
 
 ## 8. How much is the Bursary?
 
-The provisional EDrill employee award value is up to THB 120,000 per awardee per Award Year. The provisional labour-hire category, if approved, is up to THB 8,000 per month, paid quarterly. Final values are subject to approval.
+The Phase 1 EDrill employee award value is up to THB 120,000 per awardee per Award Year. The labour-hire category, if applicable, is up to THB 8,000 per month, paid quarterly.
 
 ## 9. How will payment be made?
 
-The working payment route is quarterly payment to EDrill employees. For labour-hire crew, payment is made to the relevant labour-hire agency for onward payment to its employee. The final route depends on Finance/Payroll/Legal approval.
+For EDrill employees, approved awards are paid into the recipient employee's bank account through the normal payroll session and added as a line item on the employee's payslip. For eligible labour-hire agency employees, EDMPL pays the appointed labour-hire agency at the time of application, and the agency pays onward to its employee using its existing payroll/payment process.
 
 ## 10. Will the payment be taxable?
 
-Bursary payments are tax liable to the recipient. Recipients are responsible for their own tax position. Finance/Payroll will confirm any company processing, withholding, or reporting requirements.
+Bursary payments are tax liable to the recipient. Recipients are responsible for their own tax position. Payments must not be described as tax-free or non-taxable.
 
 ## 11. What documents are required?
 

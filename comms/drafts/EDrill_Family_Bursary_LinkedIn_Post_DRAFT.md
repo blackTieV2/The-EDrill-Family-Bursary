@@ -2,7 +2,7 @@
 
 Status: Draft for review only  
 Version: 0.1  
-Important: do not publish until Executive Sponsor, HR, Legal/Compliance, and Communications approve the wording. Do not add donation, fundraising, charity, foundation, or registered society language unless the legal structure changes.
+Important: do not publish until the final Chairman/Committee/Communications pre-publication check is complete. Do not add donation, fundraising, charity, foundation, society, ROS, tax-free, non-taxable, guaranteed entitlement, or beneficiary-identifying language unless separately approved with specific consent where required.
 
 ## Draft LinkedIn Post
 
@@ -25,4 +25,3 @@ By assisting with approved schooling costs for eligible children, the Bursary re
 The first phase will be administered through our Thailand operations under a controlled application and review process.
 
 #EnergyDrilling #EducationSupport #ThailandOperations #OurPeople
-

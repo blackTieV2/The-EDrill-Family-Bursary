@@ -6,7 +6,9 @@ This repository is the working space for the EDrill Family Bursary program in Th
 
 ## Program Overview
 
-The EDrill Family Bursary is a corporate welfare initiative by Energy Drilling Management Pte. Ltd. that provides education bursaries to children of eligible employees and labour hire crew working in Thailand. The program is chaired by Alex Maroske and administered by a small committee. The planned launch date is 1 October 2026.
+The EDrill Family Bursary is a corporate welfare initiative funded by Energy Drilling Management Pte. Ltd. (EDMPL) that provides education bursaries to children of eligible employees and eligible labour-hire agency employees assigned to EDrill rigs in Thailand. The Phase 1 Bursary Committee is chaired by Alex Maroske and includes Jacquline Ho, Malee Pasutharnchart, Luke Byrne, and Sittikorn Intahkaew. The planned launch date is 1 October 2026.
+
+Phase 1 uses a Chairman/Committee-approved internal compliance position; no external legal advice obtained. The documents remain in draft folders until the Launch Approval Checklist records all required Phase 1 approvals and final communications checks.
 
 ## Repository Use
 
@@ -14,7 +16,7 @@ This repo is intended to:
 
 - draft the founding policy and supporting documents;
 - store templates and reusable working files;
-- track open questions, decisions, and governance history;
+- track decisions, controls, remaining approval checks, and governance history;
 - prepare external communications for LinkedIn and the website;
 - manage annual award-cycle records after launch.
 
@@ -61,7 +63,8 @@ This repo is intended to:
 
 ## Key Contacts
 
-- Program Chair: [Name / role to be confirmed]
+- Program Chair: Alex Maroske - Chairman
+- Committee: Jacquline Ho - Senior Finance Manager, Singapore; Malee Pasutharnchart - Office Manager / Finance, Thailand; Luke Byrne - Director of Operations, Thailand; Sittikorn Intahkaew - Regional QHSSE Manager
 - Committee Secretary: [Name / role to be confirmed]
 - HR Contact: [Name / role to be confirmed]
 - Finance Contact: [Name / role to be confirmed]

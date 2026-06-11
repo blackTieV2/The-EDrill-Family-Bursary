@@ -27,7 +27,7 @@ The long-term option of a Singapore Registry of Societies model should remain in
 | 9 | Confirm labour-hire agency inclusion | Include eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs, subject to verification and approval |  |
 | 10 | Confirm labour-hire award value | THB 8,000 per month, paid quarterly as THB 24,000 |  |
 | 11 | Confirm selection principle if applications exceed six | Resolved in Decision Log: no further Marcus clarification is outstanding. The Committee applies a means-tested, need-weighted assessment considering financial need and family circumstances. | Superseded by Decision Log |
-| 12 | Confirm public communication posture | LinkedIn and corporate website post effective 1 October, after Legal/Compliance/Communications approval |  |
+| 12 | Confirm public communication posture | LinkedIn and corporate website post effective 1 October, after final Chairman/Committee/Communications pre-publication check | Superseded by Decision Log |
 
 ## 2. Policy Decisions For Bangkok HR / Operations
 
