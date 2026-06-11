@@ -10,6 +10,14 @@ The EDrill Family Bursary is a corporate welfare initiative funded by Energy Dri
 
 Phase 1 uses a Chairman/Committee-approved internal compliance position; no external legal advice obtained. The documents remain in draft folders until the Launch Approval Checklist records all required Phase 1 approvals and final communications checks.
 
+## Current Status After b9b5aa1
+
+Phase 1 policy decisions are now resolved.
+
+Documents remain draft until final issue approval is recorded. The next gate is final issue approval and launch evidence setup.
+
+The Bursary is not operational until the Final Issue Approval Record and the 2026-2027 Launch Evidence Register are completed.
+
 ## Repository Use
 
 This repo is intended to:
@@ -47,6 +55,7 @@ This repo is intended to:
 │   ├── award-years/
 │   │   ├── template/
 │   │   └── 2026-2027/
+│   │       ├── EDrill_Family_Bursary_2026_2027_Launch_Evidence_Register.md
 │   │       ├── applications-received/
 │   │       ├── committee-review-notes/
 │   │       ├── award-decisions/

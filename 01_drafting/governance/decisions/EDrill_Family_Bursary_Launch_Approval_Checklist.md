@@ -14,6 +14,13 @@ Purpose: confirm that all required approvals and launch gates are closed before 
 
 The Bursary is not launch-ready until every required item in this checklist is Approved, Conditional with conditions satisfied, or Not applicable.
 
+Key launch administration records:
+
+- Final Issue Approval Record: `01_drafting/governance/decisions/EDrill_Family_Bursary_Final_Issue_Approval_Record.md`
+- 2026-2027 Launch Evidence Register: `02_operations/award-years/2026-2027/EDrill_Family_Bursary_2026_2027_Launch_Evidence_Register.md`
+- Committee Conflict and Confidentiality Declaration: `templates/EDrill_Family_Bursary_Committee_Conflict_and_Confidentiality_Declaration_TEMPLATE.md`
+- Labour-Hire Agency Onward Payment Acknowledgement: `templates/EDrill_Family_Bursary_Labour_Hire_Agency_Onward_Payment_Acknowledgement_TEMPLATE.md`
+
 ## 3. Executive Approval
 
 | Item | Required evidence | Owner | Status | Notes |
@@ -66,18 +73,20 @@ The Bursary is not launch-ready until every required item in this checklist is A
 | --- | --- | --- | --- | --- |
 | Bangkok HR administrator confirmed | Appointment / email | HR | Open |  |
 | Committee members appointed | Decision Log | Executive Sponsor / HR / Committee | Approved | Alex Maroske, Jacquline Ho, Malee Pasutharnchart, Luke Byrne, and Sittikorn Intahkaew confirmed |
-| Committee conflict declarations prepared | Existing template | HR / Committee | Approved control | Declarations still required before review/decision activity |
+| Committee conflict and confidentiality declarations prepared | `templates/EDrill_Family_Bursary_Committee_Conflict_and_Confidentiality_Declaration_TEMPLATE.md` | HR / Committee | Approved control | Declarations still required before review/decision activity |
 | Application window confirmed | HR launch plan | HR | Open |  |
 | Secure submission route confirmed | HR / IT note | HR / IT | Open |  |
 | Launch Workplan and RACI approved | Approved workplan | Executive Sponsor / HR | Open |  |
-| Launch evidence file established | Evidence file register + secure location | HR / Finance / Committee | Open | Access must be restricted |
+| Launch evidence file established | `02_operations/award-years/2026-2027/EDrill_Family_Bursary_2026_2027_Launch_Evidence_Register.md` + secure location | HR / Finance / Committee | Open | Access must be restricted |
 | Eligibility rules approved | HR approval | HR / Executive Sponsor | Open |  |
 | Selection/scoring method approved | HR / Sponsor approval | HR / Executive Sponsor | Open |  |
 | Operations verification process approved | Operations note | Operations | Open |  |
 | Labour-hire agency verification and onward-payment process approved, if applicable | Operations/agency note | Operations / agency | Open |  |
-| Labour-hire agency acknowledgement completed, if applicable | Agency acknowledgement | Operations / agency / Committee | Execution step | Required before including that agency's employees; should remain practical and use existing agency payment acknowledgement practices |
+| Labour-hire agency acknowledgement completed, if applicable | `templates/EDrill_Family_Bursary_Labour_Hire_Agency_Onward_Payment_Acknowledgement_TEMPLATE.md` | Operations / agency / Committee | Execution step | Required before including that agency's employees; should remain practical and use existing agency payment acknowledgement practices |
 
 ## 7. Document Approval
+
+Final document issue is controlled by `01_drafting/governance/decisions/EDrill_Family_Bursary_Final_Issue_Approval_Record.md`. Do not move draft documents to approved folders until that record is completed.
 
 | Document | Owner | Status | Notes |
 | --- | --- | --- | --- |
@@ -97,9 +106,11 @@ The Bursary is not launch-ready until every required item in this checklist is A
 | Appeal / Exception Form | HR / Committee | Open |  |
 | Annual Scheme Report Template | HR / Finance / Sponsor | Open |  |
 | Finance / Payroll Position Template | Finance / Payroll / Committee | Reclassified | Use as payroll admin record if helpful, not a policy blocker |
-| Labour-Hire Agency Acknowledgement Template | Operations / Finance / Committee | Open | Practical agency acknowledgement only |
+| Committee Conflict and Confidentiality Declaration Template | HR / Committee | Open | Use before Committee review/decision activity |
+| Labour-Hire Agency Onward Payment Acknowledgement Template | Operations / Finance / Committee | Open | Practical agency acknowledgement only |
 | Launch Workplan and RACI | Executive Sponsor / HR / Finance / Committee / Operations | Open |  |
-| Launch Evidence File Register | HR / Finance / Committee | Open |  |
+| 2026-2027 Launch Evidence Register | HR / Finance / Committee | Open | `02_operations/award-years/2026-2027/EDrill_Family_Bursary_2026_2027_Launch_Evidence_Register.md` |
+| Final Issue Approval Record | Chairman / Committee / Finance / Payroll / HR | Open | Required before moving drafts to approved folders |
 | Approval Meeting Agenda / minutes | Executive Sponsor / HR | Open |  |
 
 ## 8. Communications Approval
