@@ -80,7 +80,7 @@ Important: the final scoring method must be approved before use.
 | Field | Response |
 | --- | --- |
 | Recommended award amount | THB |
-| Recommended payment route | Direct to school / reimbursement / other |
+| Recommended payment route | EDrill employee payroll-session bank payment / labour-hire agency onward payment / approved exception |
 | Payment cadence | Quarterly / other |
 | Conditions |  |
 | Evidence still required |  |
