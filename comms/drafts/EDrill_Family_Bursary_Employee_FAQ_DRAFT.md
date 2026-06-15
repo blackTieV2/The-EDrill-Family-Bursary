@@ -24,7 +24,7 @@ A family may apply for multiple eligible children. Each child/application is mea
 
 ## 5. Are private schools included?
 
-Government and private schools in Thailand are provisionally included, subject to the approved rules and evidence requirements.
+Government and private schools in Thailand are included, subject to the approved rules and evidence requirements.
 
 ## 6. Are international schools included?
 
@@ -40,7 +40,7 @@ The Phase 1 EDrill employee award value is up to THB 120,000 per awardee per Awa
 
 ## 9. How will payment be made?
 
-For EDrill employees, approved awards are paid into the recipient employee's bank account through the normal payroll session and added as a line item on the employee's payslip. For eligible labour-hire agency employees, EDMPL pays the appointed labour-hire agency at the time of application, and the agency pays onward to its employee using its existing payroll/payment process.
+For EDrill employees, approved awards are paid into the recipient employee's bank account through the normal payroll session and added as a line item on the employee's payslip. For eligible labour-hire agency employees, EDPL pays the appointed labour-hire agency at the time of application, and the agency pays onward to its employee using its existing payroll/payment process.
 
 ## 10. Will the payment be taxable?
 

@@ -54,7 +54,7 @@ Phase 2 may later consider a Singapore Registry of Societies or other structure 
 
 | No. | Document | Status | Dependency | Notes |
 | --- | --- | --- | --- | --- |
-| B1 | Bursary Charter | Drafted for review | Executive decisions, EDMPL funding entity, launch scope | Draft created as `EDrill_Family_Bursary_Charter_DRAFT.md`; not moved to approved folder |
+| B1 | Bursary Charter | Drafted for review | Executive decisions, EDPL funding entity, launch scope | Draft created as `EDrill_Family_Bursary_Charter_DRAFT.md`; not moved to approved folder |
 | B2 | Bursary Procedure / SOP | Drafted for review | Approved payroll/agency payment routes, HR process, confirmed committee | Draft created as `EDrill_Family_Bursary_Procedure_SOP_DRAFT.md`; not moved to approved folder |
 | B3 | Eligibility and Selection Rules | Drafted for review | Eligibility definitions and scoring method | Draft created as `EDrill_Family_Bursary_Eligibility_and_Selection_Rules_DRAFT.md`; not for issue until launch gates close |
 | B4 | Payment and Evidence Rules | Drafted for review | Approved payroll/tax/payment route controls | Draft created as `EDrill_Family_Bursary_Payment_and_Evidence_Rules_DRAFT.md`; not moved to approved folder |
@@ -109,7 +109,7 @@ The following gates must be closed before the first award is issued.
 
 | Gate | Current status | Owner | Evidence required |
 | --- | --- | --- | --- |
-| Scheme owner / funding entity | Closed | Executive Sponsor / Finance / Committee | EDMPL confirmed |
+| Scheme owner / funding entity | Closed | Executive Sponsor / Finance / Committee | EDPL confirmed |
 | Budget and cost centre / GL code | Reclassified | Finance | Administrative processing detail, not a policy blocker |
 | Thai tax/payroll treatment | Closed | Thailand Finance / Payroll / Committee | EDrill employee payroll-session payment, payslip line item, recipient-taxable treatment recorded |
 | Payment route | Closed | Finance / HR / Committee | EDrill employee payroll route and labour-hire agency onward-payment route approved |

@@ -22,7 +22,7 @@ Approval is also requested to continue preparing the document pack, application 
 | Labour-hire award value | Up to THB 8,000 per month, paid quarterly, if approved |
 | Administration | Bangkok HR, with Finance and Operations support |
 | Scheme type | Internal company-funded discretionary bursary |
-| Funding entity | Energy Drilling Management Pte. Ltd. (EDMPL) |
+| Funding entity | Energy Drilling Pte. Ltd. (EDPL) |
 | EDrill employee payment route | Normal payroll session to recipient employee bank account, with payslip line item |
 | Internal compliance position | Chairman/Committee-approved internal compliance position; no external legal advice obtained |
 

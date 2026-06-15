@@ -80,7 +80,7 @@ No major correction was required.
 
 The audited pack is consistent with the following confirmed decisions:
 
-- Energy Drilling Management Pte. Ltd. is the funding entity.
+- Energy Drilling Pte. Ltd. is the funding entity.
 - Phase 1 Committee membership is confirmed.
 - Approved EDrill employee awards are paid through the normal payroll session into the employee's bank account and shown as a payslip line item.
 - Bursary payments are tax liable to the recipient, and the recipient remains responsible for their own tax position.
@@ -108,7 +108,7 @@ The Committee review process is usable and clear: eligibility screening, conflic
 
 The payroll instruction process is clear for EDrill employees: Committee approval is followed by Chairman instruction to payroll, with payroll-session payment, bank account transfer, payslip line item, and recipient-taxable treatment.
 
-The labour-hire route is practical and light-touch: EDMPL pays the appointed agency, the agency pays onward through its existing payroll/payment process, and EDrill may request confirmation of onward payment without creating a burdensome new process.
+The labour-hire route is practical and light-touch: EDPL pays the appointed agency, the agency pays onward through its existing payroll/payment process, and EDrill may request confirmation of onward payment without creating a burdensome new process.
 
 Evidence requirements are not excessive: birth certificate or approved equivalent and school enrolment confirmation are the core applicant evidence, while Finance verifies salary eligibility internally.
 

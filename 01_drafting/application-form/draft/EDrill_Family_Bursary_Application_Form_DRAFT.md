@@ -37,7 +37,7 @@ A family may apply for multiple eligible children. A separate application should
 Please tick and complete as applicable.
 
 - [ ] I am connected with EDrill Thailand operations or assigned to an approved Thailand operation.
-- [ ] My monthly salary is below THB 100,000 according to the approved Bursary salary definition.
+- [ ] My monthly salary is below THB 100,000 according to the approved Bursary salary definition, based on gross fixed monthly salary and excluding variable or non-fixed amounts unless otherwise approved.
 - [ ] I meet the applicable minimum service or assignment requirement.
 - [ ] I am applying for a child who is under the approved age limit for the Award Year.
 - [ ] The child is enrolled in a school in Thailand.
@@ -125,7 +125,7 @@ Finance verifies salary eligibility internally. Do not attach a payslip unless F
 
 ## 11. Applicant Declaration
 
-I confirm that the information provided in this application is true, complete, and accurate to the best of my knowledge. I understand that false, misleading, or incomplete information may result in the application being declined, an award being withdrawn, or payments being recovered.
+I confirm that the information provided in this application is true, complete, and accurate to the best of my knowledge. I understand that false, misleading, incomplete, or withheld material information may result in disqualification, withdrawal of an award, recovery of amounts paid, and disciplinary or contractual action where applicable.
 
 I understand that the Bursary is discretionary, limited, subject to eligibility and available places, and not automatically renewed.
 

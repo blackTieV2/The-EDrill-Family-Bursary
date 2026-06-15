@@ -8,7 +8,7 @@ Important: this draft reflects confirmed Phase 1 management decisions recorded i
 
 ## 1. Purpose
 
-These Rules define the provisional award values, payment controls, eligible expenses, evidence requirements, and payment conditions for The EDrill Family Bursary.
+These Rules define the award values, payment controls, eligible expenses, evidence requirements, and payment conditions for The EDrill Family Bursary.
 
 These Rules support the Bursary Charter, Procedure / SOP, and Eligibility and Selection Rules.
 
@@ -16,7 +16,7 @@ These Rules support the Bursary Charter, Procedure / SOP, and Eligibility and Se
 
 Finance/Payroll administers the approved Phase 1 payment routes:
 
-- EDMPL is the funding entity;
+- EDPL is the funding entity;
 - cost centre / GL code is a Finance administrative processing detail and is not a policy blocker;
 - EDrill employee awards are paid through the normal payroll session into the recipient employee's bank account;
 - EDrill employee awards are added as a line item on the employee's payslip;
@@ -25,9 +25,11 @@ Finance/Payroll administers the approved Phase 1 payment routes:
 - audit evidence requirements;
 - treatment of labour-hire agency awards and onward payments, if applicable.
 
-## 3. Provisional Award Values
+For eligibility purposes, monthly salary means gross fixed monthly salary, excluding variable components, allowances, bonuses, overtime, offshore payments, discretionary payments, and other non-fixed amounts, unless otherwise approved by Finance and the Committee.
 
-| Category | Provisional maximum award | Provisional cadence |
+## 3. Award Values
+
+| Category | Maximum award | Payment cadence |
 | --- | ---: | --- |
 | Eligible EDrill employee child | THB 120,000 per Award Year | Quarterly, THB 30,000 per quarter |
 | Eligible labour-hire worker child | THB 8,000 per month | Quarterly, THB 24,000 per quarter |
@@ -36,7 +38,7 @@ These values are the approved Phase 1 working values unless the Committee and Fi
 
 ## 4. Maximum Number of Awards
 
-The provisional maximum number of awards is six bursaries per Award Year.
+The maximum number of awards is six bursaries per Award Year.
 
 The Executive Sponsor and Finance must confirm the final number of awards for each Award Year before applications open.
 
@@ -71,7 +73,7 @@ Excluded expenses may be approved only by recorded exception.
 The approved Phase 1 route is:
 
 1. EDrill employee awards are paid quarterly into the recipient employee's bank account through the normal payroll session and added as a payslip line item.
-2. Labour-hire crew awards are paid by EDMPL to the appointed labour-hire agency at the time of application for onward payment to its employee using the agency's existing payroll/payment process.
+2. Labour-hire crew awards are paid by EDPL to the appointed labour-hire agency at the time of application for onward payment to its employee using the agency's existing payroll/payment process.
 
 Because EDrill employee awards are processed through payroll, Finance/Payroll should handle routine payroll administration in the normal way.
 
@@ -202,7 +204,7 @@ Before each quarterly payment, HR and Finance should confirm:
 
 Payment may be delayed, reduced, suspended, or stopped if evidence or eligibility is incomplete.
 
-If an EDrill employee or labour-hire agency employee leaves employment or ceases assignment during the award year, continuation, suspension, or cessation of the award is decided case by case by the Committee, considering the circumstances of cessation and the needs of the family.
+If employment, assignment, schooling, eligibility, or other relevant circumstances change during an Award Year, the Committee may continue, suspend, cease, or prorate the award on a case-by-case basis, considering the circumstances and the needs of the family.
 
 ## 16. Changes After Award
 
@@ -240,7 +242,7 @@ Before any labour-hire-related payment:
 - labour-hire agency employment status must be verified;
 - EDrill Operations must verify assignment/continuity;
 - agency acknowledgement must be obtained if required;
-- Finance pays EDMPL funds to the appointed labour-hire agency at the time of application;
+- Finance pays EDPL funds to the appointed labour-hire agency at the time of application;
 - the agency pays onward to its employee using its existing payroll/payment process, similar to salary handling;
 - the agency is responsible for obtaining or holding employee receipt or acknowledgement of funds in the same practical way it handles salary/payment acknowledgement;
 - EDrill may request confirmation that onward payment was made;

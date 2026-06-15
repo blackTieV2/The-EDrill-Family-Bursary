@@ -28,7 +28,7 @@ This Procedure does not apply to Myanmar or other locations unless formally exte
 
 No award may be issued unless:
 
-1. the funding entity is EDMPL and routine Finance processing details are recorded;
+1. the funding entity is EDPL and routine Finance processing details are recorded;
 2. the annual budget is approved;
 3. recipient-taxable treatment is recorded;
 4. the approved payroll or labour-hire agency payment route is used;
@@ -152,7 +152,7 @@ Incomplete applications may be declined if required documents are not provided b
 
 HR, Finance, and Operations should screen applications against approved eligibility rules.
 
-The provisional eligibility checks include:
+The eligibility checks include:
 
 - employee is within approved Thailand operations scope;
 - employee salary is below THB 100,000 using the approved salary definition;
@@ -164,6 +164,8 @@ The provisional eligibility checks include:
 - required evidence is complete;
 - no duplicate education benefit applies;
 - labour-hire agency employment and continuous assignment requirements are met, if applicable.
+
+For eligibility purposes, monthly salary means gross fixed monthly salary, excluding variable components, allowances, bonuses, overtime, offshore payments, discretionary payments, and other non-fixed amounts, unless otherwise approved by Finance and the Committee.
 
 Finance should complete the salary-cap check before any application is forwarded to the Committee. Committee packs should then be anonymised so far as practical, with Finance/HR retaining the identifiable salary evidence.
 
@@ -177,7 +179,7 @@ For each labour-hire applicant:
 
 1. The relevant labour-hire agency should verify employment status.
 2. EDrill Operations should verify assignment to EDrill rigs.
-3. Continuous work for EDrill since 1 January 2025 should be verified.
+3. Continuous service or assignment connected with EDrill Thailand operations from 1 January 2025, with no break exceeding 30 days, should be verified unless an exception is approved by the Committee.
 4. HR/Committee should confirm that communications do not describe labour-hire agency staff as EDrill employees.
 5. Finance should use the approved payment route to the labour-hire agency and may request confirmation that onward payment was made.
 
@@ -282,7 +284,7 @@ The award letter should state:
 - continued eligibility conditions;
 - that renewal is not automatic;
 - that the Bursary is discretionary;
-- that false or misleading information may result in withdrawal or recovery;
+- that false, misleading, incomplete, or withheld material information may result in disqualification, withdrawal of an award, recovery of amounts paid, and disciplinary or contractual action where applicable;
 - privacy and consent references;
 - contact point for questions.
 
@@ -313,7 +315,7 @@ Finance should process payment only after:
 Approved Phase 1 payment route:
 
 1. EDrill employee awards are paid into the recipient employee's bank account through the normal payroll session and added as a line item on the employee's payslip.
-2. Labour-hire crew awards are paid by EDMPL to the appointed labour-hire agency at the time of application for onward payment to its employee using the agency's existing payroll/payment process.
+2. Labour-hire crew awards are paid by EDPL to the appointed labour-hire agency at the time of application for onward payment to its employee using the agency's existing payroll/payment process.
 3. Direct school payment or reimbursement may be used only if approved as an exception or revised process.
 
 Payments should not exceed the approved award value. Evidence of schooling and education-related costs should be retained for audit and control even where the award is paid to an employee bank account or through a labour-hire agency.
@@ -331,7 +333,7 @@ The quarterly review should confirm:
 - no unresolved compliance issue;
 - payment amount due.
 
-If an EDrill employee or labour-hire agency employee leaves employment or ceases assignment during the award year, continuation, suspension, or cessation of the award is decided case by case by the Committee, considering the circumstances of cessation and the needs of the family.
+If employment, assignment, schooling, eligibility, or other relevant circumstances change during an Award Year, the Committee may continue, suspend, cease, or prorate the award on a case-by-case basis, considering the circumstances and the needs of the family.
 
 ## 21. Changes in Circumstances
 
@@ -346,7 +348,7 @@ Applicants and recipients must notify HR if:
 - submitted information was incorrect;
 - family circumstances relevant to the application change.
 
-The Company may suspend, reduce, stop, or recover payment where eligibility no longer applies or information was inaccurate, subject to any Committee decision on mid-year employment or assignment cessation.
+The Company may suspend, reduce, stop, prorate, or recover payment where eligibility no longer applies or information was inaccurate, subject to any Committee decision on mid-year eligibility changes.
 
 ## 22. Renewal
 

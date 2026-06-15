@@ -43,7 +43,7 @@ For EDrill employees, approved awards are paid into the recipient employee's ban
 
 Bursary payments are tax liable to the recipient. You are responsible for your own tax position.
 
-For labour-hire agency employees, EDMPL pays approved bursary funds to the appointed labour-hire agency at the time of application. The agency pays onward to its employee using its existing payroll/payment process.
+For labour-hire agency employees, EDPL pays approved bursary funds to the appointed labour-hire agency at the time of application. The agency pays onward to its employee using its existing payroll/payment process.
 
 ## 3. Renewal
 

@@ -12,15 +12,15 @@ Use: Light-touch acknowledgement for the appointed labour-hire agency where Burs
 | Employee name or reference |  |
 | Bursary application / award reference |  |
 | Award Year |  |
-| Amount received from EDMPL | THB |
-| Date funds received from EDMPL |  |
+| Amount received from EDPL | THB |
+| Date funds received from EDPL |  |
 | Date paid onward to employee |  |
 
 ## 2. Agency Acknowledgement
 
 The agency acknowledges that:
 
-- it has received the Bursary funds identified above from Energy Drilling Management Pte. Ltd. (EDMPL);
+- it has received the Bursary funds identified above from Energy Drilling Pte. Ltd. (EDPL);
 - it has paid, or will pay, the funds onward to its employee using its existing payroll/payment process;
 - receipt or acknowledgement by the employee is handled in the same practical way the agency handles salary or payment acknowledgement;
 - the agency remains the employer/payor for its employee;

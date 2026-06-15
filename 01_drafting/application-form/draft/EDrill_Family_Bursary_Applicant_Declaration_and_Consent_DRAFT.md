@@ -22,7 +22,7 @@ I declare that:
 - the documents I have provided are genuine and complete;
 - I have not intentionally withheld information relevant to eligibility;
 - I will notify HR if my circumstances change after submission;
-- I understand that false, misleading, or incomplete information may result in rejection, withdrawal of award, suspension of payment, or recovery of payment.
+- I understand that false, misleading, incomplete, or withheld material information may result in disqualification, withdrawal of an award, recovery of amounts paid, and disciplinary or contractual action where applicable.
 
 ## 3. Understanding of Bursary Conditions
 

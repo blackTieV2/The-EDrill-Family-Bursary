@@ -16,10 +16,10 @@ The Bursary is not yet operational.
 
 The principal reason is not lack of paperwork. Confirmed management decisions have closed or reclassified several earlier blockers. The remaining work is final launch administration and approval recording:
 
-1. Record EDMPL as the funding entity and keep cost centre / GL code as a Finance administrative processing detail.
+1. Record EDPL as the funding entity and keep cost centre / GL code as a Finance administrative processing detail.
 2. Use the approved EDrill employee payroll route: normal payroll session, employee bank account, payslip line item, recipient-taxable treatment.
 3. Use the Chairman/Committee-approved internal compliance position for consent, confidentiality, data minimisation, anonymised review where practicable, and restricted access controls.
-4. Use the approved labour-hire agency model: EDMPL pays the appointed agency for onward payment through the agency's existing payroll/payment process.
+4. Use the approved labour-hire agency model: EDPL pays the appointed agency for onward payment through the agency's existing payroll/payment process.
 5. Complete conflict-of-interest and confidentiality declarations before Committee review/decision activity.
 6. Complete final document checks and launch evidence/admin setup.
 7. Approve internal and external communications before issue.
@@ -187,7 +187,7 @@ Before the launch checklist is closed, do not:
 | Draft governance documents | Green / Amber | Drafts exist, but they need approval and final issue control. |
 | Draft procedures and forms | Green / Amber | Drafts exist and now reflect confirmed Phase 1 decisions; final issue control remains. |
 | Internal compliance readiness | Amber | Chairman/Committee-approved internal compliance position recorded; no external legal advice obtained. Controls must be followed. |
-| Finance/payroll readiness | Amber | EDMPL funding and payroll route recorded; routine payroll/admin setup remains. |
+| Finance/payroll readiness | Amber | EDPL funding and payroll route recorded; routine payroll/admin setup remains. |
 | labour-hire agency participation readiness | Amber | Model approved internally; appointed agency acknowledgement/process execution remains. |
 | Communications readiness | Amber | Drafts exist but should not be issued yet. |
 | ROS/fundraising readiness | Future only | Preserved for planning, not ready for activation. |

@@ -26,13 +26,13 @@ The Bursary should be administered according to the following principles:
 
 ## 3. Award Year
 
-The first Award Year is provisionally intended to begin on 1 October 2026.
+The first Award Year is intended to begin on 1 October 2026.
 
 The final Award Year dates, application opening date, and application closing date must be approved before applications open.
 
 ## 4. Eligible Applicant Categories
 
-The provisional eligible applicant categories are:
+The eligible applicant categories are:
 
 1. Eligible EDrill employees connected with Thailand operations.
 2. Eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs, if labour-hire participation is approved.
@@ -41,10 +41,10 @@ The Bursary does not apply to Myanmar or other locations unless formally extende
 
 ## 5. EDrill Employee Eligibility
 
-An EDrill employee is provisionally eligible to apply if all of the following apply:
+An EDrill employee is eligible to apply if all of the following apply:
 
 1. The employee is connected with Thailand operations or assigned to an approved Thailand operation.
-2. The employee is in an approved employee group or rig/office scope, provisionally including ED1, ED2, T15, T16, GHTH, and EVE.
+2. The employee is in an approved employee group or rig/office scope, including ED1, ED2, T15, T16, GHTH, and EVE.
 3. The employee's monthly salary is below THB 100,000 using the approved salary definition.
 4. The employee meets the approved minimum service requirement.
 5. The employee has an eligible child enrolled in an eligible school in Thailand.
@@ -53,34 +53,32 @@ An EDrill employee is provisionally eligible to apply if all of the following ap
 
 ## 6. Salary Threshold
 
-The provisional salary threshold is monthly salary below THB 100,000.
+The salary threshold is monthly salary below THB 100,000.
 
-The provisional salary definition is:
+For eligibility purposes, monthly salary means:
 
-> base monthly salary plus fixed contractual allowances, excluding variable overtime unless Finance decides otherwise.
+> gross fixed monthly salary, excluding variable components, allowances, bonuses, overtime, offshore payments, discretionary payments, and other non-fixed amounts, unless otherwise approved by Finance and the Committee.
 
 The salary threshold should be tested at:
 
 1. application closing date; and
 2. award approval date.
 
-Finance and HR must confirm the final salary definition before the application form is issued.
+Finance verifies salary eligibility internally using this definition.
 
 ## 7. Minimum Service
 
-The provisional minimum service requirement for EDrill employees is 12 months of continuous service before the application closing date.
-
-This requirement must be confirmed by HR and the Executive Sponsor before launch.
+The employee or labour-hire eligible worker must have continuous service or assignment connected with EDrill Thailand operations from 1 January 2025, with no break exceeding 30 days, unless an exception is approved by the Committee.
 
 ## 8. Labour-Hire Agency Eligibility
 
-Labour-hire agency participation is provisional and must be approved before use.
+Labour-hire agency participation may be used only where the appointed labour-hire agency participation model and acknowledgement are approved.
 
 If approved, a labour-hire agency employee may be eligible if all of the following apply:
 
 1. The individual is an employee of the appointed labour-hire agency at the time of application, not EDrill.
 2. The individual is assigned to EDrill rigs.
-3. The individual has worked continuously for EDrill since 1 January 2025.
+3. The individual has continuous assignment connected with EDrill Thailand operations from 1 January 2025, with no break exceeding 30 days, unless an exception is approved by the Committee.
 4. The relevant labour-hire agency verifies employment status.
 5. EDrill Operations verifies assignment and continuity.
 6. Any required labour-hire agency acknowledgement is obtained.
@@ -108,7 +106,7 @@ A family may apply for multiple eligible children. Each child/application is mea
 
 ## 11. Eligible Schools
 
-The provisional eligible school categories are:
+The eligible school categories are:
 
 - government schools in Thailand;
 - private schools in Thailand;
@@ -116,13 +114,13 @@ The provisional eligible school categories are:
 
 Applicants must list the school attended. Government and private schools in Thailand are included. International schools should be reviewed for cost reasonableness unless the Executive Sponsor approves an exclusion, cap, or separate rule.
 
-Homeschooling and online schooling are provisionally excluded for the first launch unless legally recognised and evidence is clear.
+Homeschooling and online schooling are excluded for the first launch unless legally recognised and evidence is clear.
 
 ## 12. Evidence Required
 
 Applicants must provide, or allow HR/Finance/Operations to verify, the evidence required by the application pack.
 
-Provisional evidence requirements include:
+Evidence requirements include:
 
 - completed application form;
 - birth certificate or approved equivalent;
@@ -141,7 +139,7 @@ An application may be declined if:
 - eligibility is not met;
 - required evidence is missing;
 - documents cannot be verified;
-- information is false, misleading, or materially incomplete;
+- information is false, misleading, incomplete, or withheld in a material way;
 - the child or school is outside approved scope;
 - the applicant receives a duplicate education benefit for the same expense;
 - the application is late and no exception is approved;
@@ -163,7 +161,7 @@ Eligibility alone does not create an entitlement.
 
 If eligible applications exceed available places, the Committee must apply the approved scoring model.
 
-The provisional scoring model is:
+The scoring model is:
 
 | Criterion | Points | Guidance |
 | --- | ---: | --- |
@@ -175,11 +173,11 @@ The provisional scoring model is:
 | Completeness of evidence | 0-5 | Complete, reliable, timely application |
 | Total | 100 | Rank from highest to lowest score |
 
-The final scoring model must be approved before use.
+The Committee must record scoring outcomes and reasons.
 
 ## 16. Tie-Breakers
 
-If applicants receive the same score, the provisional tie-breakers are:
+If applicants receive the same score, the tie-breakers are:
 
 1. lower employee salary;
 2. more dependent children;

@@ -24,13 +24,13 @@ Avoid:
 - wording that implies employment by EDrill;
 - public wording that blurs the contractor relationship.
 
-## 3. Provisional Eligibility
+## 3. Eligibility
 
 A labour-hire agency employee may be considered if:
 
 1. The relevant labour-hire agency confirms the individual is its employee.
 2. EDrill Operations confirms the individual is assigned to EDrill rigs.
-3. EDrill Operations and/or the relevant labour-hire agency confirms continuous work for EDrill since 1 January 2025.
+3. EDrill Operations and/or the relevant labour-hire agency confirms continuous service or assignment connected with EDrill Thailand operations from 1 January 2025, with no break exceeding 30 days, unless an exception is approved by the Committee.
 4. The child meets age, relationship, schooling, and evidence rules.
 5. Required consents and evidence are provided.
 6. The approved Phase 1 agency payment route is used.
@@ -40,11 +40,11 @@ References to agency records in this Appendix mean the relevant labour-hire agen
 
 ## 4. Award Value
 
-The provisional labour-hire award value is up to THB 8,000 per month.
+The labour-hire award value is up to THB 8,000 per month.
 
-The provisional payment cadence is quarterly, up to THB 24,000 per quarter.
+The payment cadence is quarterly, up to THB 24,000 per quarter.
 
-Finance handles cost centre / GL code as an administrative processing detail. The approved payment route is EDMPL payment to the appointed agency for onward payment to its employee.
+Finance handles cost centre / GL code as an administrative processing detail. The approved payment route is EDPL payment to the appointed agency for onward payment to its employee.
 
 ## 5. Verification Requirements
 
@@ -52,10 +52,10 @@ Finance handles cost centre / GL code as an administrative processing detail. Th
 | --- | --- | --- |
 | Labour-hire agency employment status | Relevant labour-hire agency | Written confirmation |
 | Assignment to EDrill rig | EDrill Operations | Assignment record or written confirmation |
-| Continuous work since 1 Jan 2025 | EDrill Operations / labour-hire agency | Service or assignment confirmation |
+| Continuous service or assignment from 1 January 2025, with no break exceeding 30 days unless exception approved | EDrill Operations / labour-hire agency | Service or assignment confirmation |
 | Child eligibility | HR | Application evidence |
 | School eligibility and fees | HR / Finance | School evidence |
-| Payment route | Finance | EDMPL payment to appointed agency for onward payment |
+| Payment route | Finance | EDPL payment to appointed agency for onward payment |
 
 ## 6. Labour-Hire Agency Acknowledgement
 
@@ -64,7 +64,7 @@ Before including labour-hire agency employees, EDrill should obtain practical wr
 - the agency is aware of the Bursary;
 - the agency will verify employment status where requested;
 - the agency will support assignment/service verification where appropriate;
-- EDMPL will pay any approved bursary funds to the agency for onward payment to the relevant employee;
+- EDPL will pay any approved bursary funds to the agency for onward payment to the relevant employee;
 - the agency will pay onward to its employee using its existing payroll/payment process, similar to salary handling;
 - the agency is responsible for obtaining or holding employee receipt or acknowledgement of funds in the same practical way it handles salary/payment acknowledgement;
 - EDrill may request confirmation that onward payment was made;
@@ -76,7 +76,7 @@ Before including labour-hire agency employees, EDrill should obtain practical wr
 
 Approved working payment route:
 
-1. EDMPL pays the appointed labour-hire agency at the time of application quarterly.
+1. EDPL pays the appointed labour-hire agency at the time of application quarterly.
 2. The labour-hire agency pays the eligible employee using its existing payroll/payment process.
 3. The labour-hire agency obtains or holds employee receipt or acknowledgement of funds in the same practical way it handles salary/payment acknowledgement.
 4. EDrill may request confirmation that onward payment was made.

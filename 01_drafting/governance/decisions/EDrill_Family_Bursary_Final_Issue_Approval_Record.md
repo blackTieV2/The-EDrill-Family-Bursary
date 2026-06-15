@@ -11,7 +11,7 @@ This record covers final issue approval for the Phase 1 document pack for The ED
 
 Phase 1 is:
 
-- company-funded by Energy Drilling Management Pte. Ltd. (EDMPL);
+- company-funded by Energy Drilling Pte. Ltd. (EDPL);
 - Thailand-only;
 - discretionary;
 - not fundraising;

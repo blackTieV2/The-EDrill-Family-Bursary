@@ -37,13 +37,13 @@ Key launch administration records:
 
 | Item | Required evidence | Owner | Status | Notes |
 | --- | --- | --- | --- | --- |
-| Funding entity confirmed | Decision Log | Finance / Committee | Approved | Energy Drilling Management Pte. Ltd. (EDMPL) |
+| Funding entity confirmed | Decision Log | Finance / Committee | Approved | Energy Drilling Pte. Ltd. (EDPL) |
 | Cost centre / GL code confirmed | Finance processing record | Finance | Reclassified | Finance administrative processing detail; not a policy blocker |
 | Annual budget approved | Decision Log / Finance record | Finance / Executive Sponsor / Committee | Approved | Administered as Phase 1 company-funded bursary |
 | Finance / Payroll Position Template completed | Decision Log / payroll process | Finance / Payroll | Approved | EDrill employee awards paid through normal payroll and shown as a payslip line item |
 | Payment route approved | Decision Log | Finance / Payroll / Committee | Approved | EDrill employee payroll route and labour-hire agency onward-payment route |
 | Direct employee bank payment process approved, if used | Decision Log / payroll process | Finance / Payroll | Approved | Paid into recipient employee bank account through normal payroll session |
-| Labour-hire agency onward-payment process approved, if used | Decision Log / agency acknowledgement | Finance / Operations / Committee / agency | Approved | EDMPL pays appointed agency; agency pays onward using existing payroll/payment process |
+| Labour-hire agency onward-payment process approved, if used | Decision Log / agency acknowledgement | Finance / Operations / Committee / agency | Approved | EDPL pays appointed agency; agency pays onward using existing payroll/payment process |
 | Labour-hire agency acknowledgement template approved, if used | Agency acknowledgement | Finance / Operations / Committee | Approved for Phase 1 internal operation | Practical acknowledgement only; no burdensome new process unless Committee or Finance later requires it |
 | Direct school payment or reimbursement process approved, if used as fallback | Finance process note | Finance | Open |  |
 | Cash/advance process approved, if used | Finance/Payroll approval | Finance / Payroll | Open |  |

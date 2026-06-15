@@ -41,7 +41,7 @@ For this Charter:
 
 - "Award Year" means the annual period for which a Bursary is granted. The first Award Year is intended to commence on 1 October 2026, subject to approval.
 - "Bursary" means The EDrill Family Bursary.
-- "Company" means Energy Drilling Management Pte. Ltd. (EDMPL).
+- "Company" means Energy Drilling Pte. Ltd. (EDPL).
 - "Eligible Child" means a child who meets the age, relationship, schooling, and evidence requirements set out in the Bursary rules.
 - "Eligible Employee" means an employee who meets the employment, salary, service, and operational assignment requirements set out in the Bursary rules.
 - "Labour-Hire Eligible Worker" means an eligible employee of the appointed labour-hire agency at the time of application who is assigned to EDrill rigs and meets the separate labour-hire eligibility requirements, if labour-hire participation is approved.
@@ -51,7 +51,7 @@ For this Charter:
 
 Eligibility is subject to the approved Eligibility and Selection Rules.
 
-The current provisional eligibility principles are:
+The eligibility principles are:
 
 1. The Bursary applies to children of eligible employees connected with EDrill Thailand operations.
 2. The child must meet the approved age rule. For the first cycle, the current working rule is that a child who turns 12 during the 2026 calendar year remains eligible, but a child who turns 13 during that calendar year is not eligible.
@@ -60,8 +60,11 @@ The current provisional eligibility principles are:
 5. Government and private schools in Thailand are included, subject to evidence and any approved exclusions or caps.
 6. There is no automatic renewal and no automatic renewal priority.
 7. Payment is subject to continued eligibility, evidence, available Bursary places, and approved funding.
+8. The employee or labour-hire eligible worker must have continuous service or assignment connected with EDrill Thailand operations from 1 January 2025, with no break exceeding 30 days, unless an exception is approved by the Committee.
 
-The Company may decline an application where eligibility is not proven, documents are incomplete, information is inaccurate, or the application falls outside the approved scope.
+For eligibility purposes, monthly salary means gross fixed monthly salary, excluding variable components, allowances, bonuses, overtime, offshore payments, discretionary payments, and other non-fixed amounts, unless otherwise approved by Finance and the Committee.
+
+False, misleading, incomplete, or withheld material information may result in disqualification, withdrawal of an award, recovery of amounts paid, and disciplinary or contractual action where applicable.
 
 ## 6. Labour-Hire Agency Participation
 
@@ -82,26 +85,26 @@ Labour-hire participation must be governed by a separate appendix or procedure s
 
 ## 7. Award Value and Number of Bursaries
 
-The current provisional award limits are:
+The award limits are:
 
-| Category | Provisional award value | Payment cadence |
+| Category | Award value | Payment cadence |
 | --- | ---: | --- |
 | Eligible EDrill employee child | Up to THB 120,000 per Award Year | Quarterly, subject to approval |
 | Eligible labour-hire worker child | Up to THB 8,000 per month | Quarterly, subject to approval |
 
-The Bursary is provisionally limited to a maximum of six awards per Award Year.
+The Bursary is limited to a maximum of six awards per Award Year.
 
 For EDrill employees, approved awards are paid into the recipient employee's bank account through the normal payroll session and added as a line item on the employee's payslip. The bursary payment is tax liable to the recipient, and the recipient is responsible for their own tax position.
 
 Cost centre / GL code handling is a Finance administrative processing detail and is not a policy blocker.
 
-For labour-hire worker awards, EDMPL pays bursary funds to the appointed labour-hire agency at the time of application. The agency pays onward to its employee using its existing payroll/payment process, similar to salary handling. The agency is responsible for obtaining or holding employee receipt or acknowledgement of funds in the same practical way it handles salary/payment acknowledgement. EDrill may request confirmation that onward payment was made.
+For labour-hire worker awards, EDPL pays bursary funds to the appointed labour-hire agency at the time of application. The agency pays onward to its employee using its existing payroll/payment process, similar to salary handling. The agency is responsible for obtaining or holding employee receipt or acknowledgement of funds in the same practical way it handles salary/payment acknowledgement. EDrill may request confirmation that onward payment was made.
 
 ## 8. Eligible Education Costs
 
 The Bursary is intended to support education-related costs.
 
-Provisional eligible costs include:
+Eligible costs include:
 
 - tuition;
 - compulsory school fees;
@@ -122,7 +125,7 @@ The Bursary is overseen by the confirmed Phase 1 Bursary Committee.
 The Phase 1 Bursary Committee is:
 
 - Alex Maroske - Chairman;
-- Jacquline Ho - Senior Finance Manager, Singapore;
+- Jacquline Ho - Financial Controller, Singapore;
 - Malee Pasutharnchart - Office Manager / Finance, Thailand;
 - Luke Byrne - Director of Operations, Thailand;
 - Sittikorn Intahkaew - Regional QHSSE Manager.
@@ -147,7 +150,7 @@ Finance cannot be the sole decision-maker for awards. HR cannot approve payments
 
 If eligible applications exceed available Bursary places, applications must be ranked or scored using the approved selection method.
 
-The provisional selection approach is a committee scoring model weighted toward financial need, family circumstances, service/continuity, school cost burden, and completeness of evidence.
+The selection approach is a committee scoring model weighted toward financial need, family circumstances, service/continuity, school cost burden, and completeness of evidence.
 
 No further Marcus clarification is outstanding. If eligible applications exceed available bursary places, the Committee applies a means-tested, need-weighted assessment considering financial need and family circumstances.
 
@@ -174,6 +177,8 @@ Other evidence or verification may include:
 Applicants should not be required to submit a payslip unless Finance later requires it as an exception.
 
 The Company may verify documents with relevant internal functions, schools, the relevant labour-hire agency, or other appropriate parties where lawful and where consent or legal basis exists.
+
+In the event of ambiguity or inconsistency, the approved Eligibility and Selection Rules and Procedure SOP prevail over this Charter for operational administration. The Committee's interpretation of eligibility and selection matters is final, subject to the approved appeal process, correction of procedural error, and applicable law.
 
 ## 12. Privacy and Records
 
@@ -202,7 +207,7 @@ Payments must follow the approved Finance process.
 The approved Phase 1 payment route is:
 
 1. EDrill employee awards are paid through the normal payroll session into the recipient employee's bank account and shown as a payslip line item.
-2. Labour-hire crew awards are paid by EDMPL to the appointed labour-hire agency at the time of application for onward payment to its employee using the agency's existing payroll/payment process.
+2. Labour-hire crew awards are paid by EDPL to the appointed labour-hire agency at the time of application for onward payment to its employee using the agency's existing payroll/payment process.
 3. Direct school payment or reimbursement may be used only if approved as an exception.
 
 No payment should be made until:
@@ -219,6 +224,8 @@ No payment should be made until:
 Awards are made for one Award Year only.
 
 There is no automatic renewal and no automatic renewal priority. Each award year is a reset. Existing recipients may reapply and will be assessed under the same criteria as other applicants, subject to eligibility, available places, and annual approval.
+
+If employment, assignment, schooling, eligibility, or other relevant circumstances change during an Award Year, the Committee may continue, suspend, cease, or prorate the award on a case-by-case basis, considering the circumstances and the needs of the family.
 
 ## 15. Appeals and Exceptions
 
@@ -263,7 +270,7 @@ If employee/member contributions, public appeals, or a separate Singapore-based 
 
 This Charter should not be issued as final until the following Phase 1 controls are recorded:
 
-- EDMPL funding entity recorded;
+- EDPL funding entity recorded;
 - routine Finance payroll/admin setup completed;
 - approved payroll and labour-hire agency payment routes recorded;
 - Chairman/Committee internal compliance approval recorded;
