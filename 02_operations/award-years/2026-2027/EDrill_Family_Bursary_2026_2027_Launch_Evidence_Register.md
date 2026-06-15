@@ -21,7 +21,7 @@ This register records launch administration evidence only. It does not by itself
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Final approved policy/charter | Open / pending evidence |  |  |  |  |
 | 2 | Final approved SOP | Open / pending evidence |  |  |  |  |
-| 3 | Final approved eligibility criteria | Approved for controlled issue / pending launch evidence | `01_drafting/eligibility-criteria/approved/EDrill_Family_Bursary_Eligibility_and_Selection_Rules.md` | Bursary Committee Chairman | 2026-06-15 | Version 1.1; effective 1 October 2026. Age rule generalised from 2026 calendar-year wording to Award Year wording. No substantive change to intended maximum age: child may turn 12 during the Award Year but must not turn 13 during that Award Year. Operational launch remains subject to remaining evidence/admin controls. |
+| 3 | Final approved eligibility criteria | Approved for controlled issue / pending launch evidence | `01_drafting/eligibility-criteria/approved/EDrill_Family_Bursary_Eligibility_and_Selection_Rules.md` | Bursary Committee Chairman | 2026-06-15 | Version 1.2; effective 1 October 2026. Age eligibility wording simplified to: "An eligible child must be 12 years old or younger throughout the relevant Award Year." No substantive change to the approved age limit. Operational launch remains subject to remaining evidence/admin controls. |
 | 4 | Application form issued | Open / pending evidence |  |  |  |  |
 | 5 | Evidence checklist issued | Open / pending evidence |  |  |  |  |
 | 6 | Committee members confirmed | Open / pending evidence |  |  |  |  |

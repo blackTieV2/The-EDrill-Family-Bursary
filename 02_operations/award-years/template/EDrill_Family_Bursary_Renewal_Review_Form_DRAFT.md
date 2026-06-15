@@ -24,7 +24,7 @@ Important: renewal is not automatic.
 | Applicant remains within approved scope | Pass / Fail |  |
 | Salary threshold remains met | Pass / Fail |  |
 | Minimum service / assignment remains met | Pass / Fail / N/A |  |
-| Child remains under approved age limit | Pass / Fail |  |
+| Child is 12 years old or younger throughout the relevant Award Year | Pass / Fail |  |
 | Relationship/dependency remains valid | Pass / Fail |  |
 | Child remains enrolled in eligible school | Pass / Fail |  |
 | School remains in Thailand | Pass / Fail |  |

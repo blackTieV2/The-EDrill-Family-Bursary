@@ -1,7 +1,7 @@
 # The EDrill Family Bursary - Charter
 
 Status: Approved for controlled issue  
-Version: 1.1
+Version: 1.2
 Effective date: 1 October 2026  
 Owner: Bursary Committee Chairman  
 Administrator: Bangkok Office / Bursary Administrator
@@ -55,7 +55,7 @@ Eligibility is subject to the approved Eligibility and Selection Rules.
 The eligibility principles are:
 
 1. The Bursary applies to children of eligible employees connected with EDrill Thailand operations.
-2. An eligible child must not turn 13 during the relevant Award Year. A child who turns 12 during the relevant Award Year remains eligible, but a child who turns 13 at any time during that Award Year is not eligible.
+2. The child must be 12 years old or younger throughout the relevant Award Year.
 3. The employee's monthly salary must be below THB 100,000 according to the approved salary definition.
 4. The child must be enrolled in schooling in Thailand.
 5. Government and private schools in Thailand are included, subject to evidence and any approved exclusions or caps.

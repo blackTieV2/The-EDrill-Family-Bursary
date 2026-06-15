@@ -39,7 +39,7 @@ The long-term option of a Singapore Registry of Societies model should remain in
 | 14 | Is there a minimum service period for EDrill employees? | Recommended: employed continuously for at least 12 months before application closing date |  |
 | 15 | Does the THB 100,000 salary threshold include allowances and regular overtime? | Recommended: base monthly salary plus fixed contractual allowances; exclude variable overtime unless Finance advises otherwise |  |
 | 16 | When is the salary threshold tested? | Application closing date and award approval date |  |
-| 17 | How is "under 12" measured? | Approved rule: An eligible child must not turn 13 during the relevant Award Year. A child who turns 12 during the relevant Award Year remains eligible, but a child who turns 13 at any time during that Award Year is not eligible. |  |
+| 17 | How is "under 12" measured? | Approved rule: An eligible child must be 12 years old or younger throughout the relevant Award Year. |  |
 | 18 | Are adopted children, stepchildren, and legal dependants included? | Recommended: yes, if legally dependent and supported by documents |  |
 | 19 | Is there a maximum number of children per employee? | Resolved in Decision Log: a family may apply for multiple eligible children. Each child/application is means-tested and assessed separately under the approved criteria and the annual award cap. | Superseded by Decision Log |
 | 20 | Are employees already receiving another education benefit eligible? | Recommended: no double benefit for the same child and same expense |  |

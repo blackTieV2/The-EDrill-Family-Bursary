@@ -42,7 +42,7 @@ Important: final evidence requirements follow the Decision Log and must be admin
 | Birth certificate or approved equivalent | Yes |  | HR |  |
 | Date of birth / age confirmed | Yes |  | HR |  |
 | Relationship / dependency evidence | Yes |  | HR |  |
-| Child under approved age limit | Yes |  | HR |  |
+| Child is 12 years old or younger throughout the relevant Award Year | Yes |  | HR |  |
 
 ## 5. School Evidence
 

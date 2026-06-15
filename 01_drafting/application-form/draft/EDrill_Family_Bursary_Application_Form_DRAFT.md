@@ -39,7 +39,7 @@ Please tick and complete as applicable.
 - [ ] I am connected with EDrill Thailand operations or assigned to an approved Thailand operation.
 - [ ] My monthly salary is below THB 100,000 according to the approved Bursary salary definition, based on gross fixed monthly salary and excluding variable or non-fixed amounts unless otherwise approved.
 - [ ] I meet the applicable minimum service or assignment requirement.
-- [ ] I am applying for a child who is under the approved age limit for the Award Year.
+- [ ] I am applying for a child who is 12 years old or younger throughout the relevant Award Year.
 - [ ] The child is enrolled in a school in Thailand.
 - [ ] I am not receiving another company education benefit for the same child and the same expense.
 - [ ] I understand that eligibility does not guarantee an award.
