@@ -1,18 +1,17 @@
-> Superseded by approved issue: see `01_drafting/eligibility-criteria/approved/EDrill_Family_Bursary_Eligibility_and_Selection_Rules.md`.
-
 # The EDrill Family Bursary - Eligibility and Selection Rules
 
-Status: Draft for internal review only  
-Version: 0.1  
-Effective date: 1 October 2026
-Owner: Bursary Committee Chairman
-Important: this draft reflects confirmed Phase 1 management decisions recorded in the decision log. It remains in draft form and must not be treated as operational until the Launch Approval Checklist records all required Phase 1 approvals and final communications checks.
+Status: Approved for controlled issue  
+Version: 1.0  
+Effective date: 1 October 2026  
+Owner: Bursary Committee Chairman  
+
+This document records the approved eligibility and selection rules for Phase 1 of The EDrill Family Bursary. Phase 1 application intake and award administration remain subject to completion of the Launch Approval Checklist, Launch Evidence Register, and any applicable pre-publication communications checks.
 
 ## 1. Purpose
 
 These Rules define who may apply for The EDrill Family Bursary, which children and schools are eligible, how applications are screened, and how awardees are selected if eligible applications exceed the number of available bursaries.
 
-These Rules support the Bursary Charter and Procedure / SOP.
+These Rules are subordinate to and support the approved Bursary Charter. In the event of ambiguity or inconsistency, the approved Eligibility and Selection Rules and Procedure SOP control operational administration, subject to the Charter's governing principles. The Company for Phase 1 is Energy Drilling Pte. Ltd. (EDPL).
 
 ## 2. Core Principles
 
@@ -28,9 +27,16 @@ The Bursary should be administered according to the following principles:
 
 ## 3. Award Year
 
-The first Award Year is intended to begin on 1 October 2026.
+The first Award Year commences on 1 October 2026, subject to completion of the approved launch controls.
 
-The final Award Year dates, application opening date, and application closing date must be approved before applications open.
+The confirmed Phase 1 application timetable is:
+
+- internal announcement: 1 October 2026;
+- application window opens: 1 October 2026;
+- application window closes: 31 October 2026;
+- Finance eligibility screen completed by: 15 November 2026;
+- Committee review completed by: 30 November 2026;
+- first payment: next available payroll cycle after award approval.
 
 ## 4. Eligible Applicant Categories
 
@@ -87,20 +93,16 @@ If approved, a labour-hire agency employee may be eligible if all of the followi
 7. The child meets the child and schooling eligibility rules.
 8. Required evidence is provided.
 
-All labour-hire wording must avoid implying that labour-hire agency employees are EDrill employees. Use the following wording:
-
-> eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs
+All labour-hire wording must avoid implying that labour-hire agency employees are EDrill employees. The approved Phase 1 labour-hire eligibility wording is: eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs.
 
 ## 9. Eligible Child
 
 An eligible child must:
 
-1. meet the approved age rule. For the first cycle, the working rule is that a child who turns 12 during the 2026 calendar year remains eligible, but a child who turns 13 during that year is not eligible;
+1. meet the approved age rule. For the first cycle, a child who turns 12 during the 2026 calendar year remains eligible, but a child who turns 13 during that calendar year is not eligible.
 2. be the child, adopted child, stepchild, legal dependant, or child under legal guardianship of the applicant, if supported by documents;
 3. be enrolled in an eligible school in Thailand;
 4. not be receiving duplicate education support for the same expense under another company benefit.
-
-The final age rule must be approved before the application form is issued.
 
 ## 10. Multiple Children Per Family
 
@@ -127,7 +129,7 @@ Evidence requirements include:
 - completed application form;
 - birth certificate or approved equivalent;
 - school enrolment letter or confirmation;
-- school invoice, fee note, receipt, or equivalent;
+- school invoice, fee note, receipt, or equivalent, where required to assess school cost burden or eligible education costs;
 - declaration of other education support;
 - applicant declaration and consent;
 - labour-hire agency employment and assignment verification, if applicable.
@@ -148,20 +150,22 @@ An application may be declined if:
 - the applicant refuses required consent or verification;
 - there is a conflict, fraud, or compliance concern.
 
+False, misleading, incomplete, or withheld material information may also result in disqualification, withdrawal of an award, recovery of amounts paid, and disciplinary or contractual action where applicable.
+
 ## 14. Selection When Applications Do Not Exceed Available Places
 
 If eligible applications are equal to or fewer than the approved number of Bursary places, the Committee may recommend all eligible applications, subject to:
 
 - budget availability;
 - complete evidence;
-- Finance approval;
-- final approving authority approval.
+- Finance/payroll processing confirmation;
+- Committee approval recorded in accordance with the approved governance process.
 
 Eligibility alone does not create an entitlement.
 
 ## 15. Selection When Applications Exceed Available Places
 
-If eligible applications exceed available places, the Committee must apply the approved scoring model.
+If eligible applications exceed available places, the Committee must apply the approved means-tested, need-weighted scoring model. The Bursary is family education support and is not an academic prize.
 
 The scoring model is:
 
@@ -176,6 +180,8 @@ The scoring model is:
 | Total | 100 | Rank from highest to lowest score |
 
 The Committee must record scoring outcomes and reasons.
+
+The scoring model is intended to support consistent Committee judgement. It does not create an automatic entitlement to an award.
 
 ## 16. Tie-Breakers
 
@@ -193,7 +199,21 @@ There is no automatic renewal and no automatic renewal priority.
 
 Each award year is a reset. Existing recipients may reapply and will be assessed under the same criteria as other applicants, subject to eligibility, available places, and annual approval.
 
-## 18. Appeals
+## 18. Mid-Year Eligibility Change
+
+If employment, assignment, schooling, eligibility, or other relevant circumstances change during an Award Year, the Committee may continue, suspend, cease, or prorate the award on a case-by-case basis, considering the circumstances and the needs of the family.
+
+Relevant changes may include:
+
+- employee resignation, termination, transfer, or extended break in service;
+- labour-hire agency employee leaving the agency or ceasing assignment to EDrill rigs;
+- child leaving the eligible school;
+- evidence showing eligibility was incorrect or has materially changed;
+- duplicate support or other financial support becoming available.
+
+Any decision to continue, suspend, cease, or prorate an award must be recorded with reasons.
+
+## 19. Appeals
 
 Appeals may be submitted only on approved grounds:
 
@@ -206,22 +226,12 @@ Appeals are not a second opportunity to re-argue a properly applied scoring outc
 
 Rejected applicants may appeal to the Chairman of the Committee for review under the approved appeal process.
 
-## 19. Exceptions
+## 20. Exceptions
 
 Any exception to these Rules must:
 
 - be recorded in writing;
 - identify the reason;
 - identify the approving authority;
-- confirm that Finance/Legal review is not required, or record that it was obtained;
+- confirm whether Finance review, Chairman/Committee internal compliance review, Operations review, or other functional review is required, and record the outcome where applicable;
 - not undermine the fairness or integrity of the Bursary.
-
-## 20. Approval
-
-| Role | Name | Signature / approval record | Date |
-| --- | --- | --- | --- |
-| Executive Sponsor |  |  |  |
-| HR / Bangkok Administrator |  |  |  |
-| Finance |  |  |  |
-| Legal / Compliance |  |  |  |
-| Operations |  |  |  |

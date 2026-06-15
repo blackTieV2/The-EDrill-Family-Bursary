@@ -26,7 +26,7 @@ No external legal advice was obtained. The scheme proceeds on a Chairman/Committ
 | --- | --- | --- | --- | --- | --- |
 | 1 | Bursary Charter | `01_drafting/policy/draft/EDrill_Family_Bursary_Charter_DRAFT.md` | Version 1.0; effective 1 October 2026; `01_drafting/policy/approved/EDrill_Family_Bursary_Charter.md` | 2026-06-15 | Approved for controlled issue |
 | 2 | Procedure / SOP | `01_drafting/policy/draft/EDrill_Family_Bursary_Procedure_SOP_DRAFT.md` |  |  | Open |
-| 3 | Eligibility and Selection Rules | `01_drafting/eligibility-criteria/draft/EDrill_Family_Bursary_Eligibility_and_Selection_Rules_DRAFT.md` |  |  | Open |
+| 3 | Eligibility and Selection Rules | `01_drafting/eligibility-criteria/draft/EDrill_Family_Bursary_Eligibility_and_Selection_Rules_DRAFT.md` | Version 1.0; effective 1 October 2026; `01_drafting/eligibility-criteria/approved/EDrill_Family_Bursary_Eligibility_and_Selection_Rules.md` | 2026-06-15 | Approved for controlled issue |
 | 4 | Application Form | `01_drafting/application-form/draft/EDrill_Family_Bursary_Application_Form_DRAFT.md` |  |  | Open |
 | 5 | Applicant Declaration and Consent | `01_drafting/application-form/draft/EDrill_Family_Bursary_Applicant_Declaration_and_Consent_DRAFT.md` |  |  | Open |
 | 6 | Evidence Checklist | `01_drafting/application-form/draft/EDrill_Family_Bursary_Evidence_Checklist_DRAFT.md` |  |  | Open |

@@ -78,8 +78,8 @@ Key launch administration records:
 | Secure submission route confirmed | HR / IT note | HR / IT | Open |  |
 | Launch Workplan and RACI approved | Approved workplan | Executive Sponsor / HR | Open |  |
 | Launch evidence file established | `02_operations/award-years/2026-2027/EDrill_Family_Bursary_2026_2027_Launch_Evidence_Register.md` + secure location | HR / Finance / Committee | Open | Access must be restricted |
-| Eligibility rules approved | HR approval | HR / Executive Sponsor | Open |  |
-| Selection/scoring method approved | HR / Sponsor approval | HR / Executive Sponsor | Open |  |
+| Eligibility rules approved | Approved Eligibility and Selection Rules | HR / Executive Sponsor | Approved for controlled issue | Version 1.0; effective 1 October 2026; approved path `01_drafting/eligibility-criteria/approved/EDrill_Family_Bursary_Eligibility_and_Selection_Rules.md`. Operational launch remains subject to launch evidence/admin controls. |
+| Selection/scoring method approved | Approved Eligibility and Selection Rules | HR / Sponsor / Committee | Approved for controlled issue | 100-point means-tested, need-weighted scoring model approved for controlled issue. Committee decision records remain required during administration. |
 | Operations verification process approved | Operations note | Operations | Open |  |
 | Labour-hire agency verification and onward-payment process approved, if applicable | Operations/agency note | Operations / agency | Open |  |
 | Labour-hire agency acknowledgement completed, if applicable | `templates/EDrill_Family_Bursary_Labour_Hire_Agency_Onward_Payment_Acknowledgement_TEMPLATE.md` | Operations / agency / Committee | Execution step | Required before including that agency's employees; should remain practical and use existing agency payment acknowledgement practices |
@@ -92,7 +92,7 @@ Final document issue is controlled by `01_drafting/governance/decisions/EDrill_F
 | --- | --- | --- | --- |
 | Bursary Charter | Executive Sponsor / Committee / HR | Approved for controlled issue | Version 1.0; effective 1 October 2026; approved path `01_drafting/policy/approved/EDrill_Family_Bursary_Charter.md`. Operational launch remains subject to launch evidence/admin controls. |
 | Procedure / SOP | HR / Finance / Committee | Open | Draft not moved to approved folder |
-| Eligibility and Selection Rules | HR / Sponsor / Committee | Open | Draft not moved to approved folder |
+| Eligibility and Selection Rules | HR / Sponsor / Committee | Approved for controlled issue | Version 1.0; effective 1 October 2026; approved path `01_drafting/eligibility-criteria/approved/EDrill_Family_Bursary_Eligibility_and_Selection_Rules.md`. Operational launch remains subject to launch evidence/admin controls. |
 | Payment and Evidence Rules | Finance / Payroll / Committee | Open | Draft not moved to approved folder |
 | Privacy and Records Appendix | Chairman / Committee / HR | Open | Draft not moved to approved folder |
 | Labour-Hire Agency Participation Appendix, if applicable | Operations / Finance / Committee | Open | Draft not moved to approved folder |
