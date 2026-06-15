@@ -1,11 +1,12 @@
 # The EDrill Family Bursary - Charter
 
-Status: Approved for controlled issue
-Version: 1.0
-Effective date: 1 October 2026
-Owner: Bursary Committee Chairman
+Status: Approved for controlled issue  
+Version: 1.0  
+Effective date: 1 October 2026  
+Owner: Bursary Committee Chairman  
 Administrator: Bangkok Office / Bursary Administrator
-Important: this Charter is approved as the Phase 1 governing Charter for The EDrill Family Bursary. Phase 1 administration remains subject to completion of the Launch Approval Checklist, Launch Evidence Register, and any applicable pre-publication communications checks.
+
+This Charter records the approved governance, scope and operating principles for Phase 1 of The EDrill Family Bursary. Phase 1 application intake and award administration remain subject to completion of the Launch Approval Checklist, Launch Evidence Register, and any applicable pre-publication communications checks.
 
 ## 1. Purpose
 
@@ -54,7 +55,7 @@ Eligibility is subject to the approved Eligibility and Selection Rules.
 The eligibility principles are:
 
 1. The Bursary applies to children of eligible employees connected with EDrill Thailand operations.
-2. The child must meet the approved age rule. For the first cycle, a child who turns 12 during the 2026 calendar year remains eligible, but a child who turns 13 during that calendar year is not eligible.
+2. For the first cycle, a child who turns 12 during the 2026 calendar year remains eligible, but a child who turns 13 during that calendar year is not eligible.
 3. The employee's monthly salary must be below THB 100,000 according to the approved salary definition.
 4. The child must be enrolled in schooling in Thailand.
 5. Government and private schools in Thailand are included, subject to evidence and any approved exclusions or caps.
@@ -70,7 +71,7 @@ False, misleading, incomplete, or withheld material information may result in di
 
 Subject to the approved internal controls and practical agency acknowledgement requirements, the Bursary may include eligible children of eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs.
 
-Labour-hire participants must not be described as EDrill employees unless that is legally accurate. For Phase 1, the approved labour-hire eligibility wording is: eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs.
+Labour-hire participants must not be described as EDrill employees unless that is legally accurate. The approved Phase 1 labour-hire eligibility wording is: eligible employees of the appointed labour-hire agency at the time of application who are assigned to EDrill rigs.
 
 Labour-hire participation must be governed by a separate appendix or procedure section covering:
 
@@ -262,7 +263,7 @@ If employee/member contributions, public appeals, or a separate Singapore-based 
 
 ## 18. Launch Conditions
 
-Although this Charter is approved for controlled issue, Phase 1 administration should not commence until the following controls are recorded:
+This Charter is approved for controlled issue. Phase 1 application intake and award administration should not commence until the following controls are recorded:
 
 - EDPL funding entity recorded;
 - routine Finance payroll/admin setup completed;
