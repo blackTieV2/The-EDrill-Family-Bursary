@@ -1,7 +1,7 @@
 # The EDrill Family Bursary - Eligibility and Selection Rules
 
 Status: Approved for controlled issue  
-Version: 1.0  
+Version: 1.1
 Effective date: 1 October 2026  
 Owner: Bursary Committee Chairman  
 
@@ -99,7 +99,7 @@ All labour-hire wording must avoid implying that labour-hire agency employees ar
 
 An eligible child must:
 
-1. meet the approved age rule. For the first cycle, a child who turns 12 during the 2026 calendar year remains eligible, but a child who turns 13 during that calendar year is not eligible.
+1. An eligible child must not turn 13 during the relevant Award Year. A child who turns 12 during the relevant Award Year remains eligible, but a child who turns 13 at any time during that Award Year is not eligible.
 2. be the child, adopted child, stepchild, legal dependant, or child under legal guardianship of the applicant, if supported by documents;
 3. be enrolled in an eligible school in Thailand;
 4. not be receiving duplicate education support for the same expense under another company benefit.

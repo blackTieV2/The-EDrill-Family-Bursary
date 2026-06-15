@@ -56,7 +56,7 @@ Eligibility is subject to the approved Eligibility and Selection Rules.
 The eligibility principles are:
 
 1. The Bursary applies to children of eligible employees connected with EDrill Thailand operations.
-2. The child must meet the approved age rule. For the first cycle, a child who turns 12 during the 2026 calendar year remains eligible, but a child who turns 13 during that calendar year is not eligible.
+2. An eligible child must not turn 13 during the relevant Award Year. A child who turns 12 during the relevant Award Year remains eligible, but a child who turns 13 at any time during that Award Year is not eligible.
 3. The employee's monthly salary must be below THB 100,000 according to the approved salary definition.
 4. The child must be enrolled in schooling in Thailand.
 5. Government and private schools in Thailand are included, subject to evidence and any approved exclusions or caps.

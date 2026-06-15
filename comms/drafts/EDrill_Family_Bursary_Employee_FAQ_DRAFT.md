@@ -18,7 +18,7 @@ The first award cycle is intended for eligible employees connected with EDrill T
 
 ## 4. Which children are eligible?
 
-The child must meet the approved age, relationship/dependency, schooling, and evidence requirements. For the first cycle, the working age rule is that a child who turns 12 during the 2026 calendar year remains eligible, but a child who turns 13 during that year is not eligible.
+The child must meet the approved age, relationship/dependency, schooling, and evidence requirements. An eligible child must not turn 13 during the relevant Award Year. A child who turns 12 during the relevant Award Year remains eligible, but a child who turns 13 at any time during that Award Year is not eligible.
 
 A family may apply for multiple eligible children. Each child/application is means-tested and assessed separately under the approved criteria and the annual award cap.
 
