@@ -90,7 +90,7 @@ Final document issue is controlled by `01_drafting/governance/decisions/EDrill_F
 
 | Document | Owner | Status | Notes |
 | --- | --- | --- | --- |
-| Bursary Charter | Executive Sponsor / Committee / HR | Open | Draft not moved to approved folder |
+| Bursary Charter | Executive Sponsor / Committee / HR | Approved for controlled issue | Version 1.0; effective 1 October 2026; approved path `01_drafting/policy/approved/EDrill_Family_Bursary_Charter.md`. Operational launch remains subject to launch evidence/admin controls. |
 | Procedure / SOP | HR / Finance / Committee | Open | Draft not moved to approved folder |
 | Eligibility and Selection Rules | HR / Sponsor / Committee | Open | Draft not moved to approved folder |
 | Payment and Evidence Rules | Finance / Payroll / Committee | Open | Draft not moved to approved folder |

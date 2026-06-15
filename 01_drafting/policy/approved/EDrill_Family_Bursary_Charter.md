@@ -1,7 +1,5 @@
 # The EDrill Family Bursary - Charter
 
-> Superseded by approved issue: see `01_drafting/policy/approved/EDrill_Family_Bursary_Charter.md`.
-
 Status: Approved for controlled issue
 Version: 1.0
 Effective date: 1 October 2026
